@@ -4,14 +4,17 @@ import argparse
 import json
 import csv
 import re
+import time
 from nltk import word_tokenize
 from bs4 import BeautifulSoup
+
 
 class LyricsScraper():
 
     #TODO Change to work with Archive -> https://web.archive.org/web/20160925055506/http://www.azlyrics.com/r/rollingstones.html
     def __init__(self, base_url, output):
         self.base_url = base_url
+        self.base_artist_url = "https://www.azlyrics.com/lyrics/rollingstones/"
         self.output = output
         self.USER_AGENTS = ['Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11',
                             'Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4',
@@ -26,7 +29,11 @@ class LyricsScraper():
         self.scrape()
 
     def scrape(self): 
+        print("Starting scraping {} for lyrics...".format(self.base_url))
+        print("Searching for albums...")
         album_list = self.get_album_list(self.base_url)
+        print("Found {} albums!".format(len(album_list)))
+        print("Getting lyrics...")
         song_lyrics = self.get_songs_and_lyrics(album_list)
         self.save_lyrics(song_lyrics)
 
@@ -54,7 +61,8 @@ class LyricsScraper():
                 lyrics = self.get_song_lyrics(child.text)
                 lyrics = self.clean_lyrics(lyrics)
                 result[current_album][child.text] = lyrics
-
+                break;
+    
         return result
 
     def clean_lyrics(self, lyrics):
@@ -65,18 +73,21 @@ class LyricsScraper():
 
     def get_song_lyrics(self, song_name):
         stripped_song_name = song_name.lower().replace(" ", "").rstrip()
-        content = self.get_request("https://www.azlyrics.com/lyrics/rollingstones/" + stripped_song_name + ".html")
+        print("Getting lyrics for {}...".format(song_name))
+        content = self.get_request(self.base_artist_url + stripped_song_name + ".html")
         soup = BeautifulSoup(content, 'lxml')
         lyrics = soup.find_all("div", limit=20)[-1].text
         return lyrics
 
         
     def get_request(self, url): 
-        return requests.get(url, headers={'User-Agent': random.choice(self.USER_AGENTS)}).content
-        
+        content = requests.get(url, headers={'User-Agent': random.choice(self.USER_AGENTS)}).content
+        time.sleep(1)
+        return content
+
     def save_lyrics(self, lyrics):
-        with open(self.output, 'w') as csv_file:
-            writer = csv.writer(csv_file, delimiter=',', quoting=csv.QUOTE_MINIMAL, newline='')
+        with open(self.output, 'w', newline='') as csv_file:
+            writer = csv.writer(csv_file, delimiter=',', quoting=csv.QUOTE_MINIMAL)
             writer.writerow(['album_type', 'album_name', 'album_year', 'song_name', 'song_lyrics'])
             for album in lyrics: 
                 album_type = album.split(":")[0]
