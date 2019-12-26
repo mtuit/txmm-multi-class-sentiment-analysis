@@ -34,8 +34,10 @@ class LyricsScraper():
         album_list = self.get_album_list(self.base_url)
         print("Found {} albums!".format(len(album_list)))
         print("Getting lyrics...")
-        song_lyrics = self.get_songs_and_lyrics(album_list)
-        self.save_lyrics(song_lyrics)
+        for album, lyrics in self.get_songs_and_lyrics(album_list):
+            print("Saving lyrics...")
+            self.save_lyrics(album, lyrics)
+            print("Save succesful!")
 
     def get_album_list(self, base_url):
         album_list = []
@@ -49,21 +51,18 @@ class LyricsScraper():
     def get_songs_and_lyrics(self, album_list):
         soup = BeautifulSoup(self.content, 'lxml')
         current_album = album_list[0]
-        result = {current_album: {}}
         albums = soup.find_all("div", {"id": "listAlbum"})
         
         children = albums[0].find_all(['a','div'], recursive=False)
         for child in children: 
             if child['class'][0] == 'album' and child.text != current_album:
                 current_album = album_list[album_list.index(current_album) + 1]
-                result[current_album] = {}
             elif child['class'][0] == 'listalbum-item': 
-                lyrics = self.get_song_lyrics(child.text)
+                song_name = child.text
+                lyrics = self.get_song_lyrics(song_name)
                 lyrics = self.clean_lyrics(lyrics)
-                result[current_album][child.text] = lyrics
-                break;
-    
-        return result
+                lyrics_tuple = (song_name, lyrics)
+                yield (current_album, lyrics_tuple)
 
     def clean_lyrics(self, lyrics):
         lyrics = lyrics.strip('\r\n')
@@ -85,18 +84,22 @@ class LyricsScraper():
         time.sleep(1)
         return content
 
-    def save_lyrics(self, lyrics):
-        with open(self.output, 'w', newline='') as csv_file:
+    def save_lyrics(self, album, lyrics):
+        with open(self.output, 'a', newline='') as csv_file:
             writer = csv.writer(csv_file, delimiter=',', quoting=csv.QUOTE_MINIMAL)
-            writer.writerow(['album_type', 'album_name', 'album_year', 'song_name', 'song_lyrics'])
-            for album in lyrics: 
-                album_type = album.split(":")[0]
-                album_name = re.search(r'\"(\w|\s)*\"', album).group(0).replace("\"", "")
-                album_year = re.search(r'\(\d{4}\)', album).group(0).replace("(", "").replace(")", "")
-                for song in lyrics[album]:
-                    song_name = song
-                    song_lyrics = lyrics[album][song]
-                    writer.writerow([album_type, album_name, album_year, song_name, song_lyrics])
+            # writer.writerow(['album_type', 'album_name', 'album_year', 'song_name', 'song_lyrics'])
+
+            album_type, album_name, album_year = self.get_album_meta_data(album)
+            song_name, song_lyrics = lyrics
+            writer.writerow([album_type, album_name, album_year, song_name, song_lyrics])
+
+    def get_album_meta_data(self, album):
+        album_type = album.split(":")[0]
+        regex_result = re.search(r'\"(\w|\s)*\"', album)
+        album_name = regex_result.group(0).replace("\"", "") if regex_result != None else 'Unknown'
+        regex_result = re.search(r'\(\d{4}\)', album)
+        album_year = regex_result.group(0).replace("(", "").replace(")", "") if regex_result != None else 'Unknown'
+        return album_type, album_name, album_year
         
 
 if __name__ == "__main__":
