@@ -1,0 +1,21 @@
+Starting training... This may take a while
+
+Epoch: 01 | Epoch Time: 9m 17s
+        Train Loss: 2.056 | Train Acc: 16.11%
+         Val. Loss: 2.047 |  Val. Acc: 14.51%
+
+Epoch: 02 | Epoch Time: 9m 7s
+        Train Loss: 2.047 | Train Acc: 16.87%
+         Val. Loss: 2.041 |  Val. Acc: 14.70%
+
+Epoch: 03 | Epoch Time: 9m 9s
+        Train Loss: 2.047 | Train Acc: 15.99%
+         Val. Loss: 2.040 |  Val. Acc: 14.70%
+
+Epoch: 04 | Epoch Time: 9m 23s
+        Train Loss: 2.040 | Train Acc: 17.18%
+         Val. Loss: 2.024 |  Val. Acc: 19.04%
+
+Epoch: 05 | Epoch Time: 9m 0s
+        Train Loss: 2.033 | Train Acc: 16.91%
+         Val. Loss: 2.022 |  Val. Acc: 19.84%

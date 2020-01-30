@@ -14,7 +14,7 @@ class LyricsScraper():
     #TODO Change to work with Archive -> https://web.archive.org/web/20160925055506/http://www.azlyrics.com/r/rollingstones.html
     def __init__(self, base_url, output):
         self.base_url = base_url
-        self.base_artist_url = "https://www.azlyrics.com/lyrics/rollingstones/"
+        self.base_artist_url = "https://web.archive.org"
         self.output = output
         self.USER_AGENTS = ['Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11',
                             'Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4',
@@ -52,36 +52,43 @@ class LyricsScraper():
         soup = BeautifulSoup(self.content, 'lxml')
         current_album = album_list[0]
         albums = soup.find_all("div", {"id": "listAlbum"})
-        
         children = albums[0].find_all(['a','div'], recursive=False)
-        for child in children: 
-            if child['class'][0] == 'album' and child.text != current_album:
-                current_album = album_list[album_list.index(current_album) + 1]
-            elif child['class'][0] == 'listalbum-item': 
-                song_name = child.text
-                lyrics = self.get_song_lyrics(song_name)
-                lyrics = self.clean_lyrics(lyrics)
-                lyrics_tuple = (song_name, lyrics)
-                yield (current_album, lyrics_tuple)
 
+        for child in children:
+            try:
+                if child.has_attr('id'): 
+                    continue
+                elif child.has_attr('href') and current_album == 'other songs:': 
+                    song_name = child.text
+                    song_url = self.base_artist_url + child.get('href')
+                    lyrics = self.get_song_lyrics(song_name, song_url)
+                    lyrics = self.clean_lyrics(lyrics)
+                    lyrics_tuple = (song_name, lyrics)
+                    yield (current_album, lyrics_tuple)
+                elif child['class'][0] == 'album' and child.text != current_album:
+                    current_album = album_list[album_list.index(current_album) + 1]
+            except (AttributeError, KeyError) as e: 
+                print("Error in processing: {}".format(child))
+                pass
+            
+            
     def clean_lyrics(self, lyrics):
         lyrics = lyrics.strip('\r\n')
         lyrics = [sent for sent in lyrics.split('\n') if sent.strip() != '']
         lyrics = ". ".join(lyrics)
         return lyrics
 
-    def get_song_lyrics(self, song_name):
+    def get_song_lyrics(self, song_name, song_url):
         stripped_song_name = song_name.lower().replace(" ", "").rstrip()
         print("Getting lyrics for {}...".format(song_name))
-        content = self.get_request(self.base_artist_url + stripped_song_name + ".html")
+        content = self.get_request(song_url)
         soup = BeautifulSoup(content, 'lxml')
-        lyrics = soup.find_all("div", limit=20)[-1].text
+        lyrics = soup.find("div", {"class": "ringtone"}).find_next("div").text
         return lyrics
 
         
     def get_request(self, url): 
         content = requests.get(url, headers={'User-Agent': random.choice(self.USER_AGENTS)}).content
-        time.sleep(1)
         return content
 
     def save_lyrics(self, album, lyrics):
@@ -95,7 +102,7 @@ class LyricsScraper():
 
     def get_album_meta_data(self, album):
         album_type = album.split(":")[0]
-        regex_result = re.search(r'\"(\w|\s)*\"', album)
+        regex_result = re.search(r'\".*\"', album)
         album_name = regex_result.group(0).replace("\"", "") if regex_result != None else 'Unknown'
         regex_result = re.search(r'\(\d{4}\)', album)
         album_year = regex_result.group(0).replace("(", "").replace(")", "") if regex_result != None else 'Unknown'
