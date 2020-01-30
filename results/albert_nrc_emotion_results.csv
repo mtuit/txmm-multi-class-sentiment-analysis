@@ -1,0 +1,314 @@
+album_name, song_name, emotion, score
+The Rolling Stones,I Just Want To Make Love To You,positive,0.546642423
+The Rolling Stones,Honest I Do,negative,0.525954425
+The Rolling Stones,I Need You Baby (Mona),negative,0.782930076
+The Rolling Stones,Little By Little,negative,0.686194301
+The Rolling Stones,I'm A King Bee,negative,0.654622018
+The Rolling Stones,Carol,negative,0.540510952
+The Rolling Stones,Tell Me,positive,0.513240814
+The Rolling Stones,Can I Get A Witness,positive,0.674686611
+The Rolling Stones,You Can Make It If You Try,negative,0.603298306
+The Rolling Stones,Walking The Dog,negative,0.538343728
+12x5,Around And Around,negative,0.68503648
+12x5,Confessin' The Blues,positive,0.595760763
+12x5,Empty Heart,negative,0.716223836
+12x5,Time Is On My Side,negative,0.704117477
+12x5,"Good Times, Bad Times",positive,0.617970467
+12x5,It's All Over Now,negative,0.735966623
+12x5,Under The Board Walk,negative,0.627025604
+12x5,Congratulations,negative,0.719860971
+12x5,Grown Up Wrong,negative,0.69438684
+12x5,If You Need Me,negative,0.695971787
+12x5,Susie Q,negative,0.823817313
+"The Rolling Stones, Now!",Everybody Needs Somebody To Love,negative,0.588012397
+"The Rolling Stones, Now!",Down Home Girl,negative,0.689893425
+"The Rolling Stones, Now!",You Can't Catch Me,negative,0.648153484
+"The Rolling Stones, Now!",Heart Of Stone,negative,0.65092206
+"The Rolling Stones, Now!",What A Shame,negative,0.669899881
+"The Rolling Stones, Now!",I Need You Baby (Mona),negative,0.782930076
+"The Rolling Stones, Now!",Down The Road Apiece,negative,0.60004288
+"The Rolling Stones, Now!",Off The Hook,negative,0.720900595
+"The Rolling Stones, Now!",Pain In My Heart,negative,0.71404475
+"The Rolling Stones, Now!",Oh Baby (We Got A Good Thing Goin'),negative,0.536356568
+"The Rolling Stones, Now!",Little Red Rooster,positive,0.598733187
+"The Rolling Stones, Now!","Surprise, Surprise",negative,0.708317876
+Out Of Our Heads,Mercy Mercy,negative,0.653608024
+Out Of Our Heads,Hitch Hike,negative,0.615145743
+Out Of Our Heads,The Last Time,positive,0.622579992
+Out Of Our Heads,That's How Strong My Love Is,negative,0.607250512
+Out Of Our Heads,Good Times,negative,0.652603447
+Out Of Our Heads,I'm Alright,negative,0.78105402
+Out Of Our Heads,(I Can't Get No) Satisfaction,negative,0.641331017
+Out Of Our Heads,Cry To Me,negative,0.67277354
+Out Of Our Heads,The Under Assistant West Coast Promotion Man,negative,0.512681067
+Out Of Our Heads,Play With Fire,negative,0.650710821
+Out Of Our Heads,The Spider And The Fly,negative,0.577535808
+Out Of Our Heads,One More Try,positive,0.570436239
+December's Children (And Everybody's),She Said Yeah,negative,0.740203083
+December's Children (And Everybody's),Talkin' About You,negative,0.688801587
+December's Children (And Everybody's),You Better Move On,negative,0.608687699
+December's Children (And Everybody's),Look What You've Done,negative,0.663800418
+December's Children (And Everybody's),The Singer Not The Song,negative,0.553046644
+December's Children (And Everybody's),Route 66,negative,0.588999093
+December's Children (And Everybody's),Get Off Of My Cloud,positive,0.58695966
+December's Children (And Everybody's),I'm Free,negative,0.603911102
+December's Children (And Everybody's),As Tears Go By,positive,0.676834285
+December's Children (And Everybody's),Gotta Get Away,negative,0.64598304
+December's Children (And Everybody's),Blue Turns To Grey,positive,0.5909428
+December's Children (And Everybody's),I'm Moving On,positive,0.622780085
+Aftermath,Paint It Black,negative,0.61131686
+Aftermath,Stupid Girl,positive,0.620554149
+Aftermath,Lady Jane,negative,0.662012279
+Aftermath,Under My Thumb,positive,0.557195008
+Aftermath,Doncha Bother Me,negative,0.608540118
+Aftermath,Think,positive,0.68578738
+Aftermath,Flight 505,negative,0.71035701
+Aftermath,High And Dry,positive,0.634399831
+Aftermath,It's Not Easy,negative,0.550993979
+Aftermath,I Am Waiting,negative,0.715103269
+Aftermath,Going Home,trust,0.544747949
+Between The Buttons,Let's Spend The Night Together,negative,0.627378643
+Between The Buttons,Yesterday's Papers,negative,0.682138443
+Between The Buttons,Ruby Tuesday,negative,0.714688957
+Between The Buttons,Connection,negative,0.5777964
+Between The Buttons,She Smiled Sweetly,positive,0.627950728
+Between The Buttons,"Cool, Calm & Collected",negative,0.660449326
+Between The Buttons,All Sold Out,positive,0.674694538
+Between The Buttons,My Obsession,negative,0.597861826
+Between The Buttons,Who's Been Sleeping Here,negative,0.602874339
+Between The Buttons,Complicated,negative,0.65256238
+Between The Buttons,Miss Amanda Jones,negative,0.728724301
+Between The Buttons,Something Happened To Me Yesterday,negative,0.673976123
+Their Satanic Majesties Request,Sing This All Together,negative,0.739035904
+Their Satanic Majesties Request,Citadel,negative,0.630656779
+Their Satanic Majesties Request,In Another Land,positive,0.646390438
+Their Satanic Majesties Request,2000 Man,negative,0.670203924
+Their Satanic Majesties Request,Sing This All Together (See What Happens),negative,0.684428513
+Their Satanic Majesties Request,She's A Rainbow,negative,0.733328342
+Their Satanic Majesties Request,The Lantern,negative,0.655399978
+Their Satanic Majesties Request,Gomper,positive,0.596942902
+Their Satanic Majesties Request,2000 Light Years From Home,negative,0.670875609
+Their Satanic Majesties Request,On With The Show,negative,0.580848038
+Beggar's Banquet,Sympathy For The Devil,positive,0.639170229
+Beggar's Banquet,No Expectations,positive,0.592410624
+Beggar's Banquet,Dear Doctor,negative,0.634382427
+Beggar's Banquet,Parachute Woman,negative,0.608615816
+Beggar's Banquet,Jig-Saw Puzzle,positive,0.551607132
+Beggar's Banquet,Street Fighting Man,negative,0.711477935
+Beggar's Banquet,Prodigal Son,negative,0.758598983
+Beggar's Banquet,Stray Cat Blues,negative,0.663359702
+Beggar's Banquet,Factory Girl,negative,0.702670097
+Beggar's Banquet,Salt Of The Earth,negative,0.65553683
+Let It Bleed,Gimme Shelter,negative,0.672042549
+Let It Bleed,Love In Vain,negative,0.677922487
+Let It Bleed,Country Honk,positive,0.678166747
+Let It Bleed,Live With Me,positive,0.650275409
+Let It Bleed,Let It Bleed,negative,0.659144223
+Let It Bleed,Midnight Rambler,negative,0.560158253
+Let It Bleed,You Got The Silver,positive,0.624422133
+Let It Bleed,Monkey Man,negative,0.594605207
+Let It Bleed,You Can't Always Get What You Want,positive,0.597865343
+Get Yer Ya-Ya's Out,Jumping Jack Flash,negative,0.757669866
+Get Yer Ya-Ya's Out,Carol,negative,0.540510952
+Get Yer Ya-Ya's Out,Stray Cat Blues,negative,0.663359702
+Get Yer Ya-Ya's Out,Love In Vain,negative,0.677922487
+Get Yer Ya-Ya's Out,Midnight Rambler,negative,0.560158253
+Get Yer Ya-Ya's Out,Sympathy For The Devil,positive,0.639170229
+Get Yer Ya-Ya's Out,Live With Me,positive,0.650275409
+Get Yer Ya-Ya's Out,Little Queenie,negative,0.685099781
+Get Yer Ya-Ya's Out,Honky Tonk Women,negative,0.741363227
+Get Yer Ya-Ya's Out,Street Fighting Man,negative,0.711477935
+Sticky Fingers,Brown Sugar,negative,0.763204038
+Sticky Fingers,Sway,negative,0.622129977
+Sticky Fingers,Wild Horses,positive,0.538470566
+Sticky Fingers,Can't You Hear Me Knocking,negative,0.608660877
+Sticky Fingers,You Gotta Move,negative,0.718316197
+Sticky Fingers,Bitch,negative,0.737600267
+Sticky Fingers,I Got The Blues,positive,0.583399355
+Sticky Fingers,Sister Morphine,positive,0.589927852
+Sticky Fingers,Dead Flowers,negative,0.645975769
+Sticky Fingers,Moonlight Mile,negative,0.554225683
+Exile On Main St.,Rocks Off,negative,0.66410929
+Exile On Main St.,Rip This Joint,negative,0.732450664
+Exile On Main St.,Shake Your Hips,positive,0.656684697
+Exile On Main St.,Casino Boogie,negative,0.795896947
+Exile On Main St.,Tumbling Dice,negative,0.809689999
+Exile On Main St.,Sweet Virginia,negative,0.728303373
+Exile On Main St.,Torn And Frayed,negative,0.75926131
+Exile On Main St.,Sweet Black Angel,negative,0.736666858
+Exile On Main St.,Loving Cup,negative,0.707953632
+Exile On Main St.,Happy,negative,0.761653006
+Exile On Main St.,Turd On The Run,positive,0.582375705
+Exile On Main St.,Ventilator Blues,negative,0.814747036
+Exile On Main St.,I Just Want To See His Face,negative,0.631411374
+Exile On Main St.,Let It Loose,negative,0.616925657
+Exile On Main St.,All Down The Line,negative,0.765053034
+Exile On Main St.,Stop Breaking Down,negative,0.627112508
+Exile On Main St.,Shine A Light,negative,0.583507895
+Exile On Main St.,Soul Survivor,positive,0.61954546
+Goats Head Soup,Dancing With Mr. D.,negative,0.640322506
+Goats Head Soup,100 Years Ago,positive,0.62354964
+Goats Head Soup,Coming Down Again,negative,0.672977149
+Goats Head Soup,Doo Doo Doo Doo Doo (Heartbreaker),negative,0.695890129
+Goats Head Soup,Angie,negative,0.713536441
+Goats Head Soup,Silver Train,negative,0.70030731
+Goats Head Soup,Hide Your Love,negative,0.612096727
+Goats Head Soup,Winter,negative,0.660289407
+Goats Head Soup,Can You Hear The Music?,positive,0.647637784
+Goats Head Soup,Star Star,negative,0.666188776
+It's Only Rock 'N' Roll,If You Can't Rock Me,negative,0.614169061
+It's Only Rock 'N' Roll,Ain't Too Proud To Beg,positive,0.612698376
+It's Only Rock 'N' Roll,It's Only Rock 'N' Roll (But I Like It),negative,0.666023672
+It's Only Rock 'N' Roll,Till The Next Goodbye,negative,0.585881948
+It's Only Rock 'N' Roll,Time Waits For No One,negative,0.784395695
+It's Only Rock 'N' Roll,Luxury,negative,0.671068311
+It's Only Rock 'N' Roll,Dance Little Sister,negative,0.644885242
+It's Only Rock 'N' Roll,If You Really Want To Be My Friend,negative,0.619589031
+It's Only Rock 'N' Roll,Short And Curlies,negative,0.621580422
+It's Only Rock 'N' Roll,Fingerprint File,positive,0.633196592
+Black And Blue,Hot Stuff,negative,0.638081789
+Black And Blue,Hand Of Fate,negative,0.586864352
+Black And Blue,Cherry Oh Baby,negative,0.699164867
+Black And Blue,Memory Motel,positive,0.611828744
+Black And Blue,"Hey, Negrita",negative,0.742569149
+Black And Blue,Melody,positive,0.620196104
+Black And Blue,Fool To Cry,negative,0.578483045
+Black And Blue,Crazy Mama,negative,0.601261437
+Some Girls,Miss You,positive,0.601780117
+Some Girls,When The Whip Comes Down,positive,0.604352653
+Some Girls,Just My Imagination (Running Away With Me),negative,0.621628523
+Some Girls,Some Girls,negative,0.634464324
+Some Girls,Lies,negative,0.732497156
+Some Girls,Far Away Eyes,negative,0.568968475
+Some Girls,Respectable,negative,0.625655472
+Some Girls,Before They Make Me Run,negative,0.583904564
+Some Girls,Beast Of Burden,positive,0.563448131
+Some Girls,Shattered,positive,0.586062849
+Emotional Rescue,Dance,negative,0.684659898
+Emotional Rescue,Summer Romance,positive,0.600844264
+Emotional Rescue,Send It To Me,negative,0.577037156
+Emotional Rescue,Let Me Go,negative,0.641043127
+Emotional Rescue,Indian Girl,negative,0.666273117
+Emotional Rescue,Where The Boys Go,negative,0.620189965
+Emotional Rescue,Down In The Hole,negative,0.73588258
+Emotional Rescue,Emotional Rescue,positive,0.631138861
+Emotional Rescue,She's So Cold,positive,0.58171016
+Emotional Rescue,All About You,positive,0.680217206
+Tattoo You,Start Me Up,negative,0.63722223
+Tattoo You,Hang Fire,negative,0.600074351
+Tattoo You,Slave,negative,0.619593501
+Tattoo You,Little T & A,negative,0.665530324
+Tattoo You,Black Limousine,negative,0.646882713
+Tattoo You,Neighbours,negative,0.716198266
+Tattoo You,Worried About You,negative,0.64877528
+Tattoo You,Tops,negative,0.600710869
+Tattoo You,Heaven,negative,0.743729293
+Tattoo You,No Use In Crying,negative,0.640290082
+Tattoo You,Waiting On A Friend,positive,0.629535854
+Undercover,Undercover Of The Night,positive,0.633659244
+Undercover,She Was Hot,positive,0.654030859
+Undercover,Tie You Up (The Pain Of Love),negative,0.491447777
+Undercover,Wanna Hold You,negative,0.683016956
+Undercover,Feel On Baby,negative,0.695782661
+Undercover,Too Much Blood,positive,0.598545432
+Undercover,Pretty Beat Up,negative,0.708840907
+Undercover,Too Tough,negative,0.66515094
+Undercover,All The Way Down,positive,0.596937478
+Undercover,It Must Be Hell,negative,0.733634591
+Dirty Work,One Hit (To The Body),negative,0.799259305
+Dirty Work,Fight,negative,0.710697472
+Dirty Work,Harlem Shuffle,negative,0.84016484
+Dirty Work,Hold Back,negative,0.813251793
+Dirty Work,Too Rude,negative,0.778512657
+Dirty Work,Winning Ugly,negative,0.627706647
+Dirty Work,Back To Zero,negative,0.692624986
+Dirty Work,Dirty Work,negative,0.69036442
+Dirty Work,Had It With You,negative,0.82831192
+Dirty Work,Sleep Tonight,negative,0.763855517
+Steel Wheels,Sad Sad Sad,negative,0.61392504
+Steel Wheels,Mixed Emotions,negative,0.64882195
+Steel Wheels,Terrifying,negative,0.680052817
+Steel Wheels,Hold On To Your Hat,negative,0.641482294
+Steel Wheels,Hearts For Sale,positive,0.689377666
+Steel Wheels,Blinded By Love,negative,0.595643461
+Steel Wheels,Rock And A Hard Place,negative,0.549956381
+Steel Wheels,Can't Be Seen,positive,0.540936887
+Steel Wheels,Almost Hear You Sigh,negative,0.543977618
+Steel Wheels,Continental Drift,negative,0.664933622
+Steel Wheels,Break The Spell,negative,0.581023395
+Steel Wheels,Slipping Away,negative,0.640518129
+Voodoo Lounge,Love Is Strong,negative,0.694905102
+Voodoo Lounge,You Got Me Rocking,positive,0.608835518
+Voodoo Lounge,Sparks Will Fly,negative,0.641786516
+Voodoo Lounge,The Worst,positive,0.652913153
+Voodoo Lounge,New Faces,negative,0.662304699
+Voodoo Lounge,Moon Is Up,positive,0.669359505
+Voodoo Lounge,Out Of Tears,negative,0.694932997
+Voodoo Lounge,I Go Wild,negative,0.702650011
+Voodoo Lounge,Brand New Car,positive,0.619942188
+Voodoo Lounge,Sweethearts Together,negative,0.731933832
+Voodoo Lounge,Suck On The Jugular,negative,0.698538363
+Voodoo Lounge,Blinded By Rainbows,positive,0.57494539
+Voodoo Lounge,Baby Break It Down,positive,0.575064361
+Voodoo Lounge,Thru And Thru,negative,0.683706701
+Voodoo Lounge,Mean Disposition,negative,0.504790246
+Stripped,Street Fighting Man,negative,0.711477935
+Stripped,Like A Rolling Stone,positive,0.622542143
+Stripped,Not Fade Away,negative,0.718538046
+Stripped,Shine A Light,negative,0.583507895
+Stripped,The Spider And The Fly,negative,0.577535808
+Stripped,I'm Free,negative,0.603911102
+Stripped,Wild Horses,positive,0.538470566
+Stripped,Let It Bleed,negative,0.659144223
+Stripped,Dead Flowers,negative,0.645975769
+Stripped,Slipping Away,negative,0.640518129
+Stripped,Angie,negative,0.713536441
+Stripped,Love In Vain,negative,0.677922487
+Stripped,Sweet Virginia,negative,0.728303373
+Stripped,Little Baby,negative,0.596138775
+Bridges To Babylon,Flip The Switch,negative,0.582358003
+Bridges To Babylon,Anybody Seen My Baby?,negative,0.631611347
+Bridges To Babylon,Low Down,negative,0.620650828
+Bridges To Babylon,Already Over Me,positive,0.702572048
+Bridges To Babylon,Gunface,positive,0.657372773
+Bridges To Babylon,You Don't Have To Mean It,negative,0.651312232
+Bridges To Babylon,Out Of Control,negative,0.675129354
+Bridges To Babylon,Saint Of Me,negative,0.615222991
+Bridges To Babylon,Might As Well Get Juiced,negative,0.640705109
+Bridges To Babylon,Always Suffering,negative,0.782563388
+Bridges To Babylon,Too Tight,negative,0.639953911
+Bridges To Babylon,Thief In The Night,negative,0.560044229
+Bridges To Babylon,How Can I Stop?,negative,0.571730971
+A Bigger Bang,Rough Justice,negative,0.672194064
+A Bigger Bang,Let Me Down Slow,negative,0.717063248
+A Bigger Bang,It Won't Take Long,negative,0.704997361
+A Bigger Bang,Rain Fall Down,negative,0.808374703
+A Bigger Bang,Streets Of Love,negative,0.641125619
+A Bigger Bang,Back Of My Hand,negative,0.771155
+A Bigger Bang,She Saw Me Coming,negative,0.689231694
+A Bigger Bang,Biggest Mistake,negative,0.685495317
+A Bigger Bang,This Place Is Empty,negative,0.69234544
+A Bigger Bang,"Oh No, Not You Again",negative,0.745682299
+A Bigger Bang,Dangerous Beauty,negative,0.65866679
+A Bigger Bang,"Laugh, I Nearly Died",negative,0.739679515
+A Bigger Bang,Sweet Neo Con,negative,0.789863765
+A Bigger Bang,Look What The Cat Dragged In,negative,0.67938292
+A Bigger Bang,Driving Too Fast,negative,0.72618413
+A Bigger Bang,Infamy,negative,0.719306886
+The Rolling Stones,Route 66,positive,0.329640359
+The Rolling Stones,I Just Want To Make Love To You,positive,0.400634795
+The Rolling Stones,Honest I Do,negative,0.489290744
+The Rolling Stones,I Need You Baby (Mona),positive,0.49799484
+The Rolling Stones,Little By Little,positive,0.415879399
+The Rolling Stones,I'm A King Bee,positive,0.438584507
+The Rolling Stones,Carol,positive,0.352506936
+The Rolling Stones,Tell Me,positive,0.16592142
+The Rolling Stones,Can I Get A Witness,trust,0.309304535
+The Rolling Stones,You Can Make It If You Try,positive,0.677253485
+The Rolling Stones,Walking The Dog,positive,0.420919418
+12x5,Around And Around,positive,0.400739253
+12x5,Confessin' The Blues,positive,0.539584458
+12x5,Empty Heart,positive,0.240954608
+12x5,Time Is On My Side,positive,0.54129225
+12x5,"Good Times, Bad Times",negative,0.258663416
+12x5,It's All Over Now,positive,0.223777637

@@ -1,0 +1,50 @@
+Iteration 0 of epoch 0 complete. Loss : 2.3492109775543213 Accuracy : 0.0625
+Iteration 25 of epoch 0 complete. Loss : 2.236088275909424 Accuracy : 0.21875
+Iteration 50 of epoch 0 complete. Loss : 2.1629295349121094 Accuracy : 0.296875
+Iteration 75 of epoch 0 complete. Loss : 2.1746366024017334 Accuracy : 0.1875
+Iteration 100 of epoch 0 complete. Loss : 2.1288692951202393 Accuracy : 0.21875
+Iteration 125 of epoch 0 complete. Loss : 2.0997323989868164 Accuracy : 0.296875
+Iteration 150 of epoch 0 complete. Loss : 2.2317841053009033 Accuracy : 0.171875
+Epoch: 01 | Epoch Time: 15m 42s
+        Train Loss: 2.183 | Train Acc: 22.83%
+         Val. Loss: 2.146 |  Val. Acc: 24.82%
+Iteration 0 of epoch 1 complete. Loss : 2.224348545074463 Accuracy : 0.203125
+Iteration 25 of epoch 1 complete. Loss : 2.2113590240478516 Accuracy : 0.234375
+Iteration 50 of epoch 1 complete. Loss : 2.1434991359710693 Accuracy : 0.265625
+Iteration 75 of epoch 1 complete. Loss : 2.1628901958465576 Accuracy : 0.21875
+Iteration 100 of epoch 1 complete. Loss : 2.129594326019287 Accuracy : 0.21875
+Iteration 125 of epoch 1 complete. Loss : 2.1344246864318848 Accuracy : 0.296875
+Iteration 150 of epoch 1 complete. Loss : 2.2226760387420654 Accuracy : 0.21875
+Epoch: 02 | Epoch Time: 15m 26s
+        Train Loss: 2.172 | Train Acc: 23.77%
+         Val. Loss: 2.139 |  Val. Acc: 26.25%
+Iteration 0 of epoch 2 complete. Loss : 2.183828353881836 Accuracy : 0.203125
+Iteration 25 of epoch 2 complete. Loss : 2.210897445678711 Accuracy : 0.265625
+Iteration 50 of epoch 2 complete. Loss : 2.146188259124756 Accuracy : 0.265625
+Iteration 75 of epoch 2 complete. Loss : 2.163374662399292 Accuracy : 0.21875
+Iteration 100 of epoch 2 complete. Loss : 2.110323429107666 Accuracy : 0.234375
+Iteration 125 of epoch 2 complete. Loss : 2.122840642929077 Accuracy : 0.28125
+Iteration 150 of epoch 2 complete. Loss : 2.183990955352783 Accuracy : 0.21875
+Epoch: 03 | Epoch Time: 15m 29s
+        Train Loss: 2.161 | Train Acc: 24.64%
+         Val. Loss: 2.123 |  Val. Acc: 26.48%
+Iteration 0 of epoch 3 complete. Loss : 2.23236346244812 Accuracy : 0.1875
+Iteration 25 of epoch 3 complete. Loss : 2.1987481117248535 Accuracy : 0.25
+Iteration 50 of epoch 3 complete. Loss : 2.090183973312378 Accuracy : 0.296875
+Iteration 75 of epoch 3 complete. Loss : 2.1501598358154297 Accuracy : 0.21875
+Iteration 100 of epoch 3 complete. Loss : 2.1114342212677 Accuracy : 0.21875
+Iteration 125 of epoch 3 complete. Loss : 2.1797285079956055 Accuracy : 0.265625
+Iteration 150 of epoch 3 complete. Loss : 2.145305871963501 Accuracy : 0.21875
+Epoch: 04 | Epoch Time: 15m 21s
+        Train Loss: 2.149 | Train Acc: 25.08%
+         Val. Loss: 2.121 |  Val. Acc: 26.53%
+Iteration 0 of epoch 4 complete. Loss : 2.1763832569122314 Accuracy : 0.203125
+Iteration 25 of epoch 4 complete. Loss : 2.202880859375 Accuracy : 0.265625
+Iteration 50 of epoch 4 complete. Loss : 2.1344754695892334 Accuracy : 0.21875
+Iteration 75 of epoch 4 complete. Loss : 2.120253562927246 Accuracy : 0.234375
+Iteration 100 of epoch 4 complete. Loss : 2.116219997406006 Accuracy : 0.21875
+Iteration 125 of epoch 4 complete. Loss : 2.1019086837768555 Accuracy : 0.28125
+Iteration 150 of epoch 4 complete. Loss : 2.1281139850616455 Accuracy : 0.21875
+Epoch: 05 | Epoch Time: 15m 4s
+        Train Loss: 2.139 | Train Acc: 24.87%
+         Val. Loss: 2.126 |  Val. Acc: 26.42%

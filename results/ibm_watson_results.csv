@@ -1,0 +1,2781 @@
+song_name,emotion,score
+Route 66,joy,0.570626
+I Just Want To Make Love To You,sadness,0.672707
+I Just Want To Make Love To You,joy,0.702215
+I Just Want To Make Love To You,tentative,0.76777
+Honest I Do,joy,0.610802
+Honest I Do,fear,0.674055
+Honest I Do,anger,0.672294
+Honest I Do,sadness,0.672207
+Honest I Do,confident,0.752665
+I Need You Baby (Mona),sadness,0.571595
+I Need You Baby (Mona),joy,0.579302
+Little By Little,fear,0.649992
+Little By Little,sadness,0.64205
+Little By Little,joy,0.62978
+I'm A King Bee,joy,0.673975
+Carol,sadness,0.577498
+Carol,joy,0.625864
+Tell Me,joy,0.574678
+Can I Get A Witness,sadness,0.576728
+Can I Get A Witness,joy,0.542068
+Can I Get A Witness,tentative,0.522257
+You Can Make It If You Try,sadness,0.678668
+You Can Make It If You Try,tentative,0.965794
+You Can Make It If You Try,analytical,0.596122
+Walking The Dog,joy,0.557272
+Walking The Dog,tentative,0.556422
+Around And Around,joy,0.596709
+Around And Around,confident,0.590729
+Confessin' The Blues,joy,0.671387
+Confessin' The Blues,tentative,0.55795
+Empty Heart,sadness,0.676298
+Empty Heart,joy,0.506617
+Empty Heart,tentative,0.520885
+Time Is On My Side,joy,0.561258
+"Good Times, Bad Times",sadness,0.612454
+"Good Times, Bad Times",joy,0.595668
+"Good Times, Bad Times",tentative,0.819274
+It's All Over Now,fear,0.605862
+It's All Over Now,sadness,0.653106
+It's All Over Now,joy,0.660707
+It's All Over Now,confident,0.935988
+Under The Board Walk,joy,0.660875
+Under The Board Walk,tentative,0.629825
+Congratulations,sadness,0.543954
+Congratulations,joy,0.62356
+Congratulations,tentative,0.916274
+Grown Up Wrong,joy,0.663715
+Grown Up Wrong,confident,0.774455
+If You Need Me,joy,0.595537
+If You Need Me,sadness,0.545541
+If You Need Me,confident,0.755641
+Susie Q,joy,0.643574
+Susie Q,confident,0.828525
+Everybody Needs Somebody To Love,sadness,0.598801
+Everybody Needs Somebody To Love,joy,0.579283
+Everybody Needs Somebody To Love,tentative,0.70849
+Down Home Girl,joy,0.537789
+You Can't Catch Me,sadness,0.52142
+You Can't Catch Me,joy,0.578317
+Heart Of Stone,sadness,0.648528
+Heart Of Stone,joy,0.586665
+Heart Of Stone,tentative,0.75915
+What A Shame,fear,0.70769
+What A Shame,sadness,0.747342
+I Need You Baby (Mona),sadness,0.571595
+I Need You Baby (Mona),joy,0.579302
+Down The Road Apiece,sadness,0.55278
+Down The Road Apiece,tentative,0.808202
+Pain In My Heart,sadness,0.687632
+Pain In My Heart,joy,0.606586
+Pain In My Heart,tentative,0.524716
+Oh Baby (We Got A Good Thing Goin'),joy,0.609406
+Little Red Rooster,confident,0.586136
+"Surprise, Surprise",joy,0.511071
+"Surprise, Surprise",tentative,0.51835
+Mercy Mercy,joy,0.606039
+Hitch Hike,joy,0.615425
+The Last Time,sadness,0.564922
+The Last Time,tentative,0.964049
+That's How Strong My Love Is,sadness,0.625693
+That's How Strong My Love Is,joy,0.751066
+Good Times,joy,0.56133
+Good Times,confident,0.738856
+I'm Alright,joy,0.564147
+(I Can't Get No) Satisfaction,joy,0.538693
+(I Can't Get No) Satisfaction,tentative,0.837347
+Cry To Me,sadness,0.716343
+Cry To Me,tentative,0.500791
+The Under Assistant West Coast Promotion Man,joy,0.537745
+The Under Assistant West Coast Promotion Man,confident,0.523927
+Play With Fire,sadness,0.664854
+Play With Fire,joy,0.527538
+Play With Fire,tentative,0.82043
+The Spider And The Fly,fear,0.581598
+The Spider And The Fly,joy,0.547515
+The Spider And The Fly,tentative,0.831699
+One More Try,sadness,0.661605
+One More Try,tentative,0.835336
+She Said Yeah,sadness,0.531791
+She Said Yeah,joy,0.622167
+She Said Yeah,tentative,0.527472
+Talkin' About You,joy,0.603198
+You Better Move On,joy,0.701131
+Look What You've Done,fear,0.523624
+Look What You've Done,sadness,0.645597
+Look What You've Done,joy,0.650717
+Look What You've Done,confident,0.504961
+The Singer Not The Song,joy,0.528808
+The Singer Not The Song,sadness,0.536578
+The Singer Not The Song,confident,0.651166
+Route 66,joy,0.570626
+Get Off Of My Cloud,sadness,0.512332
+Get Off Of My Cloud,joy,0.508742
+Get Off Of My Cloud,tentative,0.637895
+I'm Free,joy,0.741685
+I'm Free,tentative,0.920133
+As Tears Go By,sadness,0.691582
+As Tears Go By,joy,0.525887
+As Tears Go By,confident,0.604855
+Gotta Get Away,joy,0.51041
+Blue Turns To Grey,sadness,0.629586
+Blue Turns To Grey,analytical,0.6459
+Blue Turns To Grey,tentative,0.957598
+Paint It Black,joy,0.61403
+Stupid Girl,joy,0.501711
+Stupid Girl,anger,0.600023
+Stupid Girl,sadness,0.508112
+Stupid Girl,tentative,0.82504
+Stupid Girl,analytical,0.933628
+Lady Jane,joy,0.690473
+Under My Thumb,joy,0.568612
+Under My Thumb,tentative,0.586281
+Doncha Bother Me,sadness,0.539089
+Think,joy,0.539218
+Think,analytical,0.817633
+Flight 505,fear,0.537055
+Flight 505,joy,0.594592
+High And Dry,sadness,0.58926
+High And Dry,tentative,0.808859
+It's Not Easy,sadness,0.645548
+It's Not Easy,tentative,0.817282
+I Am Waiting,joy,0.522497
+I Am Waiting,fear,0.726684
+I Am Waiting,tentative,0.942817
+Going Home,joy,0.632675
+Going Home,tentative,0.848966
+Let's Spend The Night Together,joy,0.623344
+Let's Spend The Night Together,tentative,0.690296
+Yesterday's Papers,joy,0.601526
+Yesterday's Papers,sadness,0.615316
+Yesterday's Papers,analytical,0.529965
+Ruby Tuesday,sadness,0.635089
+Ruby Tuesday,joy,0.589369
+Connection,sadness,0.585396
+She Smiled Sweetly,joy,0.721409
+She Smiled Sweetly,sadness,0.521742
+"Cool, Calm & Collected",joy,0.714108
+"Cool, Calm & Collected",confident,0.738608
+All Sold Out,anger,0.502032
+All Sold Out,sadness,0.624061
+All Sold Out,joy,0.627961
+All Sold Out,tentative,0.865388
+My Obsession,joy,0.612302
+My Obsession,fear,0.685318
+My Obsession,sadness,0.633733
+Who's Been Sleeping Here,joy,0.522439
+Complicated,joy,0.557104
+Complicated,confident,0.537798
+Miss Amanda Jones,sadness,0.592239
+Miss Amanda Jones,joy,0.566867
+Miss Amanda Jones,tentative,0.531174
+Something Happened To Me Yesterday,joy,0.568621
+Something Happened To Me Yesterday,tentative,0.989459
+Sing This All Together,joy,0.61927
+Sing This All Together,confident,0.969067
+Sing This All Together,analytical,0.517873
+Citadel,tentative,0.784508
+In Another Land,joy,0.585709
+In Another Land,tentative,0.692385
+2000 Man,joy,0.719155
+Sing This All Together (See What Happens),joy,0.665338
+Sing This All Together (See What Happens),confident,0.972242
+She's A Rainbow,joy,0.60411
+She's A Rainbow,tentative,0.567218
+The Lantern,joy,0.542191
+Gomper,sadness,0.650614
+2000 Light Years From Home,sadness,0.678222
+2000 Light Years From Home,joy,0.532255
+2000 Light Years From Home,confident,0.951966
+On With The Show,sadness,0.531745
+On With The Show,joy,0.677661
+On With The Show,confident,0.859164
+Sympathy For The Devil,joy,0.546992
+Sympathy For The Devil,anger,0.518921
+Sympathy For The Devil,tentative,0.913412
+No Expectations,sadness,0.589967
+No Expectations,joy,0.624571
+No Expectations,tentative,0.586281
+Dear Doctor,sadness,0.603014
+Parachute Woman,joy,0.588866
+Jig-Saw Puzzle,sadness,0.554348
+Jig-Saw Puzzle,joy,0.552476
+Jig-Saw Puzzle,anger,0.549178
+Jig-Saw Puzzle,tentative,0.802494
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Prodigal Son,sadness,0.621689
+Prodigal Son,tentative,0.587739
+Stray Cat Blues,tentative,0.884981
+Factory Girl,fear,0.502637
+Factory Girl,sadness,0.542008
+Factory Girl,analytical,0.796925
+Factory Girl,confident,0.877438
+Salt Of The Earth,sadness,0.550018
+Salt Of The Earth,tentative,0.58719
+Salt Of The Earth,analytical,0.747826
+Gimme Shelter,sadness,0.580226
+Gimme Shelter,fear,0.640927
+Gimme Shelter,joy,0.519591
+Gimme Shelter,tentative,0.985163
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Country Honk,joy,0.549746
+Country Honk,tentative,0.624364
+Live With Me,joy,0.593872
+Let It Bleed,sadness,0.556987
+Let It Bleed,joy,0.566391
+Let It Bleed,confident,0.807211
+Midnight Rambler,anger,0.552611
+Midnight Rambler,fear,0.605634
+Midnight Rambler,sadness,0.614071
+Midnight Rambler,joy,0.547052
+You Got The Silver,joy,0.629226
+Monkey Man,joy,0.594301
+Monkey Man,tentative,0.675235
+You Can't Always Get What You Want,joy,0.579619
+You Can't Always Get What You Want,tentative,0.969298
+Jumping Jack Flash,fear,0.559879
+Jumping Jack Flash,joy,0.59842
+Jumping Jack Flash,confident,0.855712
+Carol,sadness,0.577498
+Carol,joy,0.625864
+Stray Cat Blues,tentative,0.884981
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Midnight Rambler,anger,0.552611
+Midnight Rambler,fear,0.605634
+Midnight Rambler,sadness,0.614071
+Midnight Rambler,joy,0.547052
+Sympathy For The Devil,joy,0.546992
+Sympathy For The Devil,anger,0.518921
+Sympathy For The Devil,tentative,0.913412
+Live With Me,joy,0.593872
+Little Queenie,sadness,0.560388
+Little Queenie,joy,0.657078
+Little Queenie,analytical,0.546765
+Honky Tonk Women,tentative,0.71572
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Brown Sugar,joy,0.636038
+Brown Sugar,tentative,0.958967
+Sway,joy,0.6295
+Sway,tentative,0.873632
+Wild Horses,sadness,0.621572
+Wild Horses,joy,0.611941
+Wild Horses,tentative,0.733641
+Wild Horses,analytical,0.564527
+Can't You Hear Me Knocking,anger,0.506196
+Can't You Hear Me Knocking,joy,0.563879
+Can't You Hear Me Knocking,confident,0.654167
+You Gotta Move,fear,0.525247
+You Gotta Move,tentative,0.913597
+Bitch,sadness,0.590212
+Bitch,joy,0.551114
+Bitch,anger,0.663301
+Bitch,tentative,0.643746
+I Got The Blues,sadness,0.575368
+I Got The Blues,joy,0.613434
+Sister Morphine,joy,0.618175
+Sister Morphine,fear,0.535957
+Sister Morphine,sadness,0.511347
+Dead Flowers,sadness,0.5619
+Moonlight Mile,anger,0.603193
+Moonlight Mile,sadness,0.548355
+Moonlight Mile,joy,0.552125
+Moonlight Mile,tentative,0.836814
+Rocks Off,joy,0.583231
+Rocks Off,tentative,0.652657
+Rip This Joint,sadness,0.573495
+Rip This Joint,joy,0.547056
+Rip This Joint,anger,0.550071
+Shake Your Hips,joy,0.603147
+Shake Your Hips,tentative,0.78545
+Casino Boogie,anger,0.515164
+Casino Boogie,sadness,0.692898
+Tumbling Dice,joy,0.529993
+Tumbling Dice,confident,0.780034
+Sweet Virginia,anger,0.591006
+Sweet Virginia,joy,0.624526
+Torn And Frayed,joy,0.55007
+Torn And Frayed,anger,0.500264
+Torn And Frayed,sadness,0.579385
+Torn And Frayed,tentative,0.729629
+Sweet Black Angel,joy,0.619171
+Loving Cup,sadness,0.534833
+Loving Cup,joy,0.690537
+Happy,joy,0.743986
+Happy,confident,0.55158
+Turd On The Run,sadness,0.561849
+Turd On The Run,fear,0.57838
+Turd On The Run,tentative,0.706892
+Ventilator Blues,tentative,0.858962
+I Just Want To See His Face,joy,0.605894
+I Just Want To See His Face,sadness,0.652239
+I Just Want To See His Face,tentative,0.964647
+Let It Loose,sadness,0.539345
+Let It Loose,joy,0.520783
+Let It Loose,tentative,0.632469
+All Down The Line,fear,0.709267
+All Down The Line,sadness,0.552448
+All Down The Line,confident,0.9574
+Stop Breaking Down,joy,0.540608
+Stop Breaking Down,sadness,0.570313
+Stop Breaking Down,tentative,0.606057
+Shine A Light,joy,0.686991
+Shine A Light,tentative,0.73063
+Soul Survivor,sadness,0.593506
+Soul Survivor,joy,0.551795
+Soul Survivor,confident,0.82281
+100 Years Ago,sadness,0.592301
+100 Years Ago,joy,0.590094
+100 Years Ago,tentative,0.851683
+Coming Down Again,sadness,0.597357
+Doo Doo Doo Doo Doo (Heartbreaker),joy,0.574307
+Doo Doo Doo Doo Doo (Heartbreaker),sadness,0.63185
+Angie,sadness,0.539043
+Angie,joy,0.618857
+Angie,confident,0.800215
+Silver Train,joy,0.662282
+Silver Train,confident,0.567352
+Hide Your Love,joy,0.671936
+Hide Your Love,sadness,0.578725
+Winter,sadness,0.610459
+Winter,joy,0.613661
+Can You Hear The Music?,joy,0.605923
+Can You Hear The Music?,tentative,0.870778
+Star Star,joy,0.567895
+Star Star,sadness,0.552126
+If You Can't Rock Me,sadness,0.670032
+If You Can't Rock Me,joy,0.622695
+If You Can't Rock Me,tentative,0.940648
+Ain't Too Proud To Beg,sadness,0.511951
+Ain't Too Proud To Beg,joy,0.640383
+It's Only Rock 'N' Roll (But I Like It),joy,0.58359
+It's Only Rock 'N' Roll (But I Like It),fear,0.634509
+It's Only Rock 'N' Roll (But I Like It),anger,0.603656
+It's Only Rock 'N' Roll (But I Like It),sadness,0.639401
+It's Only Rock 'N' Roll (But I Like It),tentative,0.899541
+Till The Next Goodbye,sadness,0.621639
+Till The Next Goodbye,joy,0.553885
+Till The Next Goodbye,tentative,0.580357
+Time Waits For No One,sadness,0.564046
+Time Waits For No One,joy,0.551068
+Luxury,joy,0.581846
+Luxury,sadness,0.508261
+Luxury,confident,0.673979
+Dance Little Sister,joy,0.719197
+If You Really Want To Be My Friend,sadness,0.618196
+If You Really Want To Be My Friend,joy,0.605071
+If You Really Want To Be My Friend,analytical,0.827796
+If You Really Want To Be My Friend,tentative,0.616396
+Short And Curlies,anger,0.576728
+Short And Curlies,sadness,0.605406
+Short And Curlies,confident,0.741714
+Fingerprint File,joy,0.502912
+Hot Stuff,fear,0.569635
+Hot Stuff,joy,0.578075
+Hot Stuff,confident,0.853416
+Hand Of Fate,joy,0.524552
+Hand Of Fate,sadness,0.656399
+Cherry Oh Baby,joy,0.610965
+Memory Motel,sadness,0.610931
+Memory Motel,joy,0.606349
+Memory Motel,tentative,0.774625
+"Hey, Negrita",joy,0.527613
+"Hey, Negrita",fear,0.574695
+Melody,sadness,0.511511
+Melody,joy,0.562548
+Melody,tentative,0.745011
+Fool To Cry,sadness,0.698634
+Fool To Cry,joy,0.595213
+Fool To Cry,tentative,0.617615
+Crazy Mama,joy,0.534932
+Crazy Mama,fear,0.520817
+Crazy Mama,anger,0.548529
+Crazy Mama,tentative,0.649044
+Miss You,sadness,0.562446
+Miss You,joy,0.532052
+Miss You,tentative,0.760416
+When The Whip Comes Down,joy,0.565192
+Just My Imagination (Running Away With Me),joy,0.615441
+Just My Imagination (Running Away With Me),sadness,0.504995
+Just My Imagination (Running Away With Me),tentative,0.806652
+Some Girls,joy,0.552193
+Some Girls,anger,0.536437
+Some Girls,tentative,0.797619
+Lies,anger,0.670207
+Lies,fear,0.685543
+Lies,sadness,0.737843
+Far Away Eyes,joy,0.592351
+Far Away Eyes,sadness,0.543568
+Respectable,joy,0.553326
+Before They Make Me Run,sadness,0.547233
+Before They Make Me Run,joy,0.635505
+Before They Make Me Run,analytical,0.510072
+Beast Of Burden,joy,0.603676
+Beast Of Burden,sadness,0.600348
+Beast Of Burden,tentative,0.880388
+Shattered,sadness,0.656484
+Shattered,joy,0.589309
+Shattered,analytical,0.503393
+Dance,sadness,0.567697
+Dance,joy,0.511673
+Dance,tentative,0.50488
+Summer Romance,joy,0.59329
+Summer Romance,tentative,0.630964
+Send It To Me,sadness,0.579133
+Send It To Me,tentative,0.705883
+Let Me Go,sadness,0.559275
+Let Me Go,joy,0.578551
+Let Me Go,tentative,0.540562
+Indian Girl,joy,0.581999
+Indian Girl,sadness,0.618416
+Where The Boys Go,joy,0.620807
+Where The Boys Go,confident,0.801237
+Down In The Hole,sadness,0.591979
+Down In The Hole,tentative,0.606366
+Emotional Rescue,joy,0.541242
+Emotional Rescue,sadness,0.686982
+She's So Cold,joy,0.628418
+All About You,sadness,0.546009
+All About You,joy,0.544933
+All About You,tentative,0.86184
+Start Me Up,joy,0.554704
+Start Me Up,sadness,0.635304
+Start Me Up,analytical,0.601949
+Hang Fire,sadness,0.605677
+Hang Fire,joy,0.564348
+Hang Fire,anger,0.601793
+Slave,tentative,0.876678
+Little T & A,joy,0.548147
+Little T & A,anger,0.587654
+Black Limousine,sadness,0.560707
+Black Limousine,fear,0.690457
+Black Limousine,joy,0.595078
+Black Limousine,analytical,0.962247
+Neighbours,anger,0.578497
+Neighbours,joy,0.610604
+Neighbours,tentative,0.862686
+Worried About You,joy,0.62261
+Worried About You,fear,0.665222
+Worried About You,sadness,0.659563
+Worried About You,tentative,0.940416
+Tops,joy,0.663309
+Heaven,sadness,0.705724
+No Use In Crying,sadness,0.592581
+No Use In Crying,tentative,0.728785
+Waiting On A Friend,sadness,0.601336
+Waiting On A Friend,tentative,0.956286
+Undercover Of The Night,joy,0.546611
+Undercover Of The Night,confident,0.942124
+She Was Hot,joy,0.567746
+She Was Hot,sadness,0.564229
+She Was Hot,tentative,0.568154
+Tie You Up (The Pain Of Love),sadness,0.587904
+Tie You Up (The Pain Of Love),joy,0.534172
+Wanna Hold You,joy,0.641508
+Feel On Baby,joy,0.647509
+Feel On Baby,sadness,0.535291
+Feel On Baby,tentative,0.972843
+Too Much Blood,joy,0.621586
+Too Much Blood,tentative,0.88456
+Pretty Beat Up,joy,0.678615
+Pretty Beat Up,tentative,0.997088
+Too Tough,joy,0.590072
+Too Tough,sadness,0.61151
+Too Tough,tentative,0.774175
+All The Way Down,joy,0.520686
+All The Way Down,confident,0.988384
+It Must Be Hell,anger,0.559924
+It Must Be Hell,sadness,0.613806
+One Hit (To The Body),joy,0.579404
+One Hit (To The Body),sadness,0.548908
+Fight,joy,0.587101
+Harlem Shuffle,joy,0.598325
+Harlem Shuffle,tentative,0.667502
+Hold Back,anger,0.601913
+Hold Back,sadness,0.599915
+Too Rude,sadness,0.714507
+Too Rude,fear,0.691124
+Too Rude,anger,0.637036
+Too Rude,confident,0.548588
+Winning Ugly,sadness,0.607451
+Winning Ugly,joy,0.62072
+Back To Zero,fear,0.525891
+Dirty Work,sadness,0.545589
+Dirty Work,joy,0.569389
+Dirty Work,anger,0.668273
+Dirty Work,tentative,0.907917
+Had It With You,sadness,0.600233
+Had It With You,joy,0.568345
+Sleep Tonight,joy,0.662949
+Sleep Tonight,sadness,0.501962
+Sleep Tonight,tentative,0.882708
+Sad Sad Sad,sadness,0.667412
+Mixed Emotions,sadness,0.608607
+Mixed Emotions,joy,0.592336
+Terrifying,joy,0.517361
+Terrifying,fear,0.625197
+Terrifying,anger,0.599895
+Terrifying,sadness,0.572081
+Hold On To Your Hat,sadness,0.708672
+Hold On To Your Hat,fear,0.690852
+Hold On To Your Hat,joy,0.530155
+Hold On To Your Hat,anger,0.548334
+Hold On To Your Hat,confident,0.824354
+Hearts For Sale,sadness,0.512559
+Hearts For Sale,joy,0.561614
+Blinded By Love,joy,0.647914
+Blinded By Love,sadness,0.545191
+Rock And A Hard Place,sadness,0.612809
+Can't Be Seen,fear,0.57553
+Can't Be Seen,joy,0.553207
+Can't Be Seen,tentative,0.976532
+Almost Hear You Sigh,joy,0.623076
+Almost Hear You Sigh,sadness,0.633826
+Almost Hear You Sigh,tentative,0.698156
+Continental Drift,joy,0.676158
+Continental Drift,confident,0.856574
+Break The Spell,sadness,0.585793
+Break The Spell,confident,0.70833
+Slipping Away,joy,0.554907
+Slipping Away,sadness,0.669516
+Slipping Away,tentative,0.939317
+Love Is Strong,sadness,0.637012
+Love Is Strong,fear,0.631812
+Love Is Strong,joy,0.681934
+Love Is Strong,tentative,0.772304
+You Got Me Rocking,sadness,0.566837
+You Got Me Rocking,joy,0.611756
+Sparks Will Fly,joy,0.621509
+Sparks Will Fly,anger,0.501651
+Sparks Will Fly,sadness,0.559225
+The Worst,sadness,0.595964
+The Worst,fear,0.679919
+The Worst,tentative,0.778329
+New Faces,sadness,0.593904
+New Faces,joy,0.578597
+Moon Is Up,joy,0.584996
+Out Of Tears,sadness,0.685974
+Out Of Tears,fear,0.685124
+Out Of Tears,joy,0.509252
+I Go Wild,anger,0.539694
+I Go Wild,sadness,0.579618
+Brand New Car,joy,0.563676
+Brand New Car,tentative,0.797832
+Sweethearts Together,sadness,0.522631
+Sweethearts Together,joy,0.631418
+Suck On The Jugular,anger,0.500676
+Suck On The Jugular,joy,0.588026
+Suck On The Jugular,confident,0.96355
+Blinded By Rainbows,joy,0.524247
+Blinded By Rainbows,fear,0.624144
+Blinded By Rainbows,sadness,0.622929
+Baby Break It Down,sadness,0.554
+Baby Break It Down,joy,0.584989
+Baby Break It Down,tentative,0.619679
+Thru And Thru,joy,0.634478
+Thru And Thru,tentative,0.871344
+Mean Disposition,joy,0.600266
+Mean Disposition,analytical,0.630451
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Like A Rolling Stone,joy,0.577876
+Like A Rolling Stone,tentative,0.77267
+Not Fade Away,joy,0.704202
+Not Fade Away,tentative,0.549145
+Shine A Light,joy,0.686991
+Shine A Light,tentative,0.73063
+The Spider And The Fly,fear,0.581598
+The Spider And The Fly,joy,0.547515
+The Spider And The Fly,tentative,0.831699
+I'm Free,joy,0.741685
+I'm Free,tentative,0.920133
+Wild Horses,sadness,0.621572
+Wild Horses,joy,0.611941
+Wild Horses,tentative,0.733641
+Wild Horses,analytical,0.564527
+Let It Bleed,sadness,0.556987
+Let It Bleed,joy,0.566391
+Let It Bleed,confident,0.807211
+Dead Flowers,sadness,0.5619
+Slipping Away,sadness,0.669516
+Slipping Away,joy,0.554907
+Slipping Away,tentative,0.939317
+Angie,sadness,0.539043
+Angie,joy,0.618857
+Angie,confident,0.800215
+Love In Vain,joy,0.622206
+Love In Vain,sadness,0.587292
+Love In Vain,confident,0.627908
+Sweet Virginia,joy,0.624526
+Sweet Virginia,anger,0.591006
+Little Baby,joy,0.549925
+Little Baby,tentative,0.580848
+Flip The Switch,joy,0.55287
+Flip The Switch,anger,0.619567
+Flip The Switch,sadness,0.51062
+Anybody Seen My Baby?,sadness,0.567255
+Anybody Seen My Baby?,joy,0.589938
+Anybody Seen My Baby?,tentative,0.979138
+Anybody Seen My Baby?,analytical,0.658785
+Low Down,joy,0.540853
+Low Down,tentative,0.775424
+Already Over Me,joy,0.554968
+Already Over Me,fear,0.597385
+Already Over Me,anger,0.634421
+Already Over Me,sadness,0.587379
+Already Over Me,tentative,0.575471
+Gunface,sadness,0.559965
+Gunface,joy,0.535013
+Gunface,confident,0.554909
+You Don't Have To Mean It,joy,0.584618
+You Don't Have To Mean It,tentative,0.840983
+Out Of Control,joy,0.651919
+Out Of Control,sadness,0.667439
+Saint Of Me,sadness,0.599791
+Saint Of Me,joy,0.587892
+Might As Well Get Juiced,anger,0.591178
+Might As Well Get Juiced,sadness,0.631624
+Might As Well Get Juiced,joy,0.585478
+Might As Well Get Juiced,analytical,0.807315
+Might As Well Get Juiced,tentative,0.913678
+Always Suffering,joy,0.601923
+Always Suffering,sadness,0.632066
+Always Suffering,confident,0.561979
+Too Tight,joy,0.536822
+Thief In The Night,sadness,0.520722
+Thief In The Night,tentative,0.821096
+How Can I Stop?,joy,0.55045
+How Can I Stop?,sadness,0.622271
+How Can I Stop?,tentative,0.972222
+Rough Justice,sadness,0.63846
+Rough Justice,joy,0.513427
+Rough Justice,confident,0.61457
+Let Me Down Slow,joy,0.58721
+It Won't Take Long,sadness,0.567094
+It Won't Take Long,joy,0.534316
+It Won't Take Long,analytical,0.660331
+Rain Fall Down,sadness,0.537091
+Rain Fall Down,joy,0.630908
+Streets Of Love,sadness,0.574048
+Streets Of Love,joy,0.615206
+Back Of My Hand,joy,0.568089
+Back Of My Hand,anger,0.51076
+Back Of My Hand,tentative,0.822511
+She Saw Me Coming,joy,0.563191
+She Saw Me Coming,sadness,0.531672
+Biggest Mistake,sadness,0.523725
+Biggest Mistake,joy,0.66338
+Biggest Mistake,anger,0.500148
+This Place Is Empty,sadness,0.574222
+This Place Is Empty,joy,0.60221
+This Place Is Empty,tentative,0.851587
+"Oh No, Not You Again",sadness,0.539079
+"Oh No, Not You Again",joy,0.590665
+Dangerous Beauty,fear,0.595067
+Dangerous Beauty,joy,0.611969
+"Laugh, I Nearly Died",joy,0.545242
+"Laugh, I Nearly Died",sadness,0.636446
+"Laugh, I Nearly Died",tentative,0.786865
+Sweet Neo Con,joy,0.591483
+Sweet Neo Con,confident,0.856911
+Look What The Cat Dragged In,sadness,0.579037
+Look What The Cat Dragged In,joy,0.567067
+Look What The Cat Dragged In,confident,0.73611
+Driving Too Fast,sadness,0.542474
+Infamy,sadness,0.535548
+Infamy,joy,0.555165
+Infamy,confident,0.740345
+Route 66,joy,0.570626
+I Just Want To Make Love To You,sadness,0.672707
+I Just Want To Make Love To You,joy,0.702215
+I Just Want To Make Love To You,tentative,0.76777
+Honest I Do,anger,0.672294
+Honest I Do,fear,0.674055
+Honest I Do,sadness,0.672207
+Honest I Do,joy,0.610802
+Honest I Do,confident,0.752665
+I Need You Baby (Mona),sadness,0.571595
+I Need You Baby (Mona),joy,0.579302
+Little By Little,joy,0.62978
+Little By Little,fear,0.649992
+Little By Little,sadness,0.64205
+I'm A King Bee,joy,0.673975
+Carol,sadness,0.577498
+Carol,joy,0.625864
+Tell Me,joy,0.574678
+Can I Get A Witness,sadness,0.576728
+Can I Get A Witness,joy,0.542068
+Can I Get A Witness,tentative,0.522257
+You Can Make It If You Try,sadness,0.678668
+You Can Make It If You Try,analytical,0.596122
+You Can Make It If You Try,tentative,0.965794
+Walking The Dog,joy,0.557272
+Walking The Dog,tentative,0.556422
+Around And Around,joy,0.596709
+Around And Around,confident,0.590729
+Confessin' The Blues,joy,0.671387
+Confessin' The Blues,tentative,0.55795
+Empty Heart,sadness,0.676298
+Empty Heart,joy,0.506617
+Empty Heart,tentative,0.520885
+Time Is On My Side,joy,0.561258
+"Good Times, Bad Times",sadness,0.612454
+"Good Times, Bad Times",joy,0.595668
+"Good Times, Bad Times",tentative,0.819274
+It's All Over Now,joy,0.660707
+It's All Over Now,fear,0.605862
+It's All Over Now,sadness,0.653106
+It's All Over Now,confident,0.935988
+Under The Board Walk,joy,0.660875
+Under The Board Walk,tentative,0.629825
+Congratulations,sadness,0.543954
+Congratulations,joy,0.62356
+Congratulations,tentative,0.916274
+Grown Up Wrong,joy,0.663715
+Grown Up Wrong,confident,0.774455
+If You Need Me,sadness,0.545541
+If You Need Me,joy,0.595537
+If You Need Me,confident,0.755641
+Susie Q,joy,0.643574
+Susie Q,confident,0.828525
+Everybody Needs Somebody To Love,joy,0.579283
+Everybody Needs Somebody To Love,sadness,0.598801
+Everybody Needs Somebody To Love,tentative,0.70849
+Down Home Girl,joy,0.537789
+You Can't Catch Me,sadness,0.52142
+You Can't Catch Me,joy,0.578317
+Heart Of Stone,sadness,0.648528
+Heart Of Stone,joy,0.586665
+Heart Of Stone,tentative,0.75915
+What A Shame,fear,0.70769
+What A Shame,sadness,0.747342
+I Need You Baby (Mona),sadness,0.571595
+I Need You Baby (Mona),joy,0.579302
+Down The Road Apiece,sadness,0.55278
+Down The Road Apiece,tentative,0.808202
+Pain In My Heart,sadness,0.687632
+Pain In My Heart,joy,0.606586
+Pain In My Heart,tentative,0.524716
+Oh Baby (We Got A Good Thing Goin'),joy,0.609406
+Little Red Rooster,confident,0.586136
+"Surprise, Surprise",joy,0.511071
+"Surprise, Surprise",tentative,0.51835
+Mercy Mercy,joy,0.606039
+Hitch Hike,joy,0.615425
+The Last Time,sadness,0.564922
+The Last Time,tentative,0.964049
+That's How Strong My Love Is,sadness,0.625693
+That's How Strong My Love Is,joy,0.751066
+Good Times,joy,0.56133
+Good Times,confident,0.738856
+I'm Alright,joy,0.564147
+(I Can't Get No) Satisfaction,joy,0.538693
+(I Can't Get No) Satisfaction,tentative,0.837347
+Cry To Me,sadness,0.716343
+Cry To Me,tentative,0.500791
+The Under Assistant West Coast Promotion Man,joy,0.537745
+The Under Assistant West Coast Promotion Man,confident,0.523927
+Play With Fire,sadness,0.664854
+Play With Fire,joy,0.527538
+Play With Fire,tentative,0.82043
+The Spider And The Fly,fear,0.581598
+The Spider And The Fly,joy,0.547515
+The Spider And The Fly,tentative,0.831699
+One More Try,sadness,0.661605
+One More Try,tentative,0.835336
+She Said Yeah,joy,0.622167
+She Said Yeah,sadness,0.531791
+She Said Yeah,tentative,0.527472
+Talkin' About You,joy,0.603198
+You Better Move On,joy,0.701131
+Look What You've Done,sadness,0.645597
+Look What You've Done,fear,0.523624
+Look What You've Done,joy,0.650717
+Look What You've Done,confident,0.504961
+The Singer Not The Song,sadness,0.536578
+The Singer Not The Song,joy,0.528808
+The Singer Not The Song,confident,0.651166
+Route 66,joy,0.570626
+Get Off Of My Cloud,joy,0.508742
+Get Off Of My Cloud,sadness,0.512332
+Get Off Of My Cloud,tentative,0.637895
+I'm Free,joy,0.741685
+I'm Free,tentative,0.920133
+As Tears Go By,sadness,0.691582
+As Tears Go By,joy,0.525887
+As Tears Go By,confident,0.604855
+Gotta Get Away,joy,0.51041
+Blue Turns To Grey,sadness,0.629586
+Blue Turns To Grey,analytical,0.6459
+Blue Turns To Grey,tentative,0.957598
+Paint It Black,joy,0.61403
+Stupid Girl,joy,0.501711
+Stupid Girl,anger,0.600023
+Stupid Girl,sadness,0.508112
+Stupid Girl,tentative,0.82504
+Stupid Girl,analytical,0.933628
+Lady Jane,joy,0.690473
+Under My Thumb,joy,0.568612
+Under My Thumb,tentative,0.586281
+Doncha Bother Me,sadness,0.539089
+Think,joy,0.539218
+Think,analytical,0.817633
+Flight 505,joy,0.594592
+Flight 505,fear,0.537055
+High And Dry,sadness,0.58926
+High And Dry,tentative,0.808859
+It's Not Easy,sadness,0.645548
+It's Not Easy,tentative,0.817282
+I Am Waiting,fear,0.726684
+I Am Waiting,joy,0.522497
+I Am Waiting,tentative,0.942817
+Going Home,joy,0.632675
+Going Home,tentative,0.848966
+Let's Spend The Night Together,joy,0.623344
+Let's Spend The Night Together,tentative,0.690296
+Yesterday's Papers,joy,0.601526
+Yesterday's Papers,sadness,0.615316
+Yesterday's Papers,analytical,0.529965
+Ruby Tuesday,joy,0.589369
+Ruby Tuesday,sadness,0.635089
+Connection,sadness,0.585396
+She Smiled Sweetly,sadness,0.521742
+She Smiled Sweetly,joy,0.721409
+"Cool, Calm & Collected",joy,0.714108
+"Cool, Calm & Collected",confident,0.738608
+All Sold Out,anger,0.502032
+All Sold Out,sadness,0.624061
+All Sold Out,joy,0.627961
+All Sold Out,tentative,0.865388
+My Obsession,joy,0.612302
+My Obsession,fear,0.685318
+My Obsession,sadness,0.633733
+Who's Been Sleeping Here,joy,0.522439
+Complicated,joy,0.557104
+Complicated,confident,0.537798
+Miss Amanda Jones,sadness,0.592239
+Miss Amanda Jones,joy,0.566867
+Miss Amanda Jones,tentative,0.531174
+Something Happened To Me Yesterday,joy,0.568621
+Something Happened To Me Yesterday,tentative,0.989459
+Sing This All Together,joy,0.61927
+Sing This All Together,analytical,0.517873
+Sing This All Together,confident,0.969067
+Citadel,tentative,0.784508
+In Another Land,joy,0.585709
+In Another Land,tentative,0.692385
+2000 Man,joy,0.719155
+Sing This All Together (See What Happens),joy,0.665338
+Sing This All Together (See What Happens),confident,0.972242
+She's A Rainbow,joy,0.60411
+She's A Rainbow,tentative,0.567218
+The Lantern,joy,0.542191
+Gomper,sadness,0.650614
+2000 Light Years From Home,joy,0.532255
+2000 Light Years From Home,sadness,0.678222
+2000 Light Years From Home,confident,0.951966
+On With The Show,sadness,0.531745
+On With The Show,joy,0.677661
+On With The Show,confident,0.859164
+Sympathy For The Devil,joy,0.546992
+Sympathy For The Devil,anger,0.518921
+Sympathy For The Devil,tentative,0.913412
+No Expectations,sadness,0.589967
+No Expectations,joy,0.624571
+No Expectations,tentative,0.586281
+Dear Doctor,sadness,0.603014
+Parachute Woman,joy,0.588866
+Jig-Saw Puzzle,joy,0.552476
+Jig-Saw Puzzle,anger,0.549178
+Jig-Saw Puzzle,sadness,0.554348
+Jig-Saw Puzzle,tentative,0.802494
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Prodigal Son,sadness,0.621689
+Prodigal Son,tentative,0.587739
+Stray Cat Blues,tentative,0.884981
+Factory Girl,fear,0.502637
+Factory Girl,sadness,0.542008
+Factory Girl,analytical,0.796925
+Factory Girl,confident,0.877438
+Salt Of The Earth,sadness,0.550018
+Salt Of The Earth,tentative,0.58719
+Salt Of The Earth,analytical,0.747826
+Gimme Shelter,joy,0.519591
+Gimme Shelter,fear,0.640927
+Gimme Shelter,sadness,0.580226
+Gimme Shelter,tentative,0.985163
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Country Honk,joy,0.549746
+Country Honk,tentative,0.624364
+Live With Me,joy,0.593872
+Let It Bleed,sadness,0.556987
+Let It Bleed,joy,0.566391
+Let It Bleed,confident,0.807211
+Midnight Rambler,joy,0.547052
+Midnight Rambler,fear,0.605634
+Midnight Rambler,anger,0.552611
+Midnight Rambler,sadness,0.614071
+You Got The Silver,joy,0.629226
+Monkey Man,joy,0.594301
+Monkey Man,tentative,0.675235
+You Can't Always Get What You Want,joy,0.579619
+You Can't Always Get What You Want,tentative,0.969298
+Jumping Jack Flash,fear,0.559879
+Jumping Jack Flash,joy,0.59842
+Jumping Jack Flash,confident,0.855712
+Carol,sadness,0.577498
+Carol,joy,0.625864
+Stray Cat Blues,tentative,0.884981
+Love In Vain,joy,0.622206
+Love In Vain,sadness,0.587292
+Love In Vain,confident,0.627908
+Midnight Rambler,sadness,0.614071
+Midnight Rambler,fear,0.605634
+Midnight Rambler,joy,0.547052
+Midnight Rambler,anger,0.552611
+Sympathy For The Devil,joy,0.546992
+Sympathy For The Devil,anger,0.518921
+Sympathy For The Devil,tentative,0.913412
+Live With Me,joy,0.593872
+Little Queenie,sadness,0.560388
+Little Queenie,joy,0.657078
+Little Queenie,analytical,0.546765
+Honky Tonk Women,tentative,0.71572
+Street Fighting Man,joy,0.519157
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,analytical,0.697586
+Brown Sugar,joy,0.636038
+Brown Sugar,tentative,0.958967
+Sway,joy,0.6295
+Sway,tentative,0.873632
+Wild Horses,sadness,0.621572
+Wild Horses,joy,0.611941
+Wild Horses,analytical,0.564527
+Wild Horses,tentative,0.733641
+Can't You Hear Me Knocking,anger,0.506196
+Can't You Hear Me Knocking,joy,0.563879
+Can't You Hear Me Knocking,confident,0.654167
+You Gotta Move,fear,0.525247
+You Gotta Move,tentative,0.913597
+Bitch,joy,0.551114
+Bitch,anger,0.663301
+Bitch,sadness,0.590212
+Bitch,tentative,0.643746
+I Got The Blues,sadness,0.575368
+I Got The Blues,joy,0.613434
+Sister Morphine,sadness,0.511347
+Sister Morphine,fear,0.535957
+Sister Morphine,joy,0.618175
+Dead Flowers,sadness,0.5619
+Moonlight Mile,anger,0.603193
+Moonlight Mile,sadness,0.548355
+Moonlight Mile,joy,0.552125
+Moonlight Mile,tentative,0.836814
+Rocks Off,joy,0.583231
+Rocks Off,tentative,0.652657
+Rip This Joint,joy,0.547056
+Rip This Joint,anger,0.550071
+Rip This Joint,sadness,0.573495
+Shake Your Hips,joy,0.603147
+Shake Your Hips,tentative,0.78545
+Casino Boogie,sadness,0.692898
+Casino Boogie,anger,0.515164
+Tumbling Dice,joy,0.529993
+Tumbling Dice,confident,0.780034
+Sweet Virginia,anger,0.591006
+Sweet Virginia,joy,0.624526
+Torn And Frayed,joy,0.55007
+Torn And Frayed,anger,0.500264
+Torn And Frayed,sadness,0.579385
+Torn And Frayed,tentative,0.729629
+Sweet Black Angel,joy,0.619171
+Loving Cup,sadness,0.534833
+Loving Cup,joy,0.690537
+Happy,joy,0.743986
+Happy,confident,0.55158
+Turd On The Run,fear,0.57838
+Turd On The Run,sadness,0.561849
+Turd On The Run,tentative,0.706892
+Ventilator Blues,tentative,0.858962
+I Just Want To See His Face,joy,0.605894
+I Just Want To See His Face,sadness,0.652239
+I Just Want To See His Face,tentative,0.964647
+Let It Loose,joy,0.520783
+Let It Loose,sadness,0.539345
+Let It Loose,tentative,0.632469
+All Down The Line,sadness,0.552448
+All Down The Line,fear,0.709267
+All Down The Line,confident,0.9574
+Stop Breaking Down,sadness,0.570313
+Stop Breaking Down,joy,0.540608
+Stop Breaking Down,tentative,0.606057
+Shine A Light,joy,0.686991
+Shine A Light,tentative,0.73063
+Soul Survivor,sadness,0.593506
+Soul Survivor,joy,0.551795
+Soul Survivor,confident,0.82281
+100 Years Ago,joy,0.590094
+100 Years Ago,sadness,0.592301
+100 Years Ago,tentative,0.851683
+Coming Down Again,sadness,0.597357
+Doo Doo Doo Doo Doo (Heartbreaker),sadness,0.63185
+Doo Doo Doo Doo Doo (Heartbreaker),joy,0.574307
+Angie,sadness,0.539043
+Angie,joy,0.618857
+Angie,confident,0.800215
+Silver Train,joy,0.662282
+Silver Train,confident,0.567352
+Hide Your Love,joy,0.671936
+Hide Your Love,sadness,0.578725
+Winter,joy,0.613661
+Winter,sadness,0.610459
+Can You Hear The Music?,joy,0.605923
+Can You Hear The Music?,tentative,0.870778
+Star Star,sadness,0.552126
+Star Star,joy,0.567895
+If You Can't Rock Me,sadness,0.670032
+If You Can't Rock Me,joy,0.622695
+If You Can't Rock Me,tentative,0.940648
+Ain't Too Proud To Beg,sadness,0.511951
+Ain't Too Proud To Beg,joy,0.640383
+It's Only Rock 'N' Roll (But I Like It),joy,0.58359
+It's Only Rock 'N' Roll (But I Like It),fear,0.634509
+It's Only Rock 'N' Roll (But I Like It),anger,0.603656
+It's Only Rock 'N' Roll (But I Like It),sadness,0.639401
+It's Only Rock 'N' Roll (But I Like It),tentative,0.899541
+Till The Next Goodbye,joy,0.553885
+Till The Next Goodbye,sadness,0.621639
+Till The Next Goodbye,tentative,0.580357
+Time Waits For No One,sadness,0.564046
+Time Waits For No One,joy,0.551068
+Luxury,sadness,0.508261
+Luxury,joy,0.581846
+Luxury,confident,0.673979
+Dance Little Sister,joy,0.719197
+If You Really Want To Be My Friend,sadness,0.618196
+If You Really Want To Be My Friend,joy,0.605071
+If You Really Want To Be My Friend,analytical,0.827796
+If You Really Want To Be My Friend,tentative,0.616396
+Short And Curlies,anger,0.576728
+Short And Curlies,sadness,0.605406
+Short And Curlies,confident,0.741714
+Fingerprint File,joy,0.502912
+Hot Stuff,fear,0.569635
+Hot Stuff,joy,0.578075
+Hot Stuff,confident,0.853416
+Hand Of Fate,sadness,0.656399
+Hand Of Fate,joy,0.524552
+Cherry Oh Baby,joy,0.610965
+Memory Motel,sadness,0.610931
+Memory Motel,joy,0.606349
+Memory Motel,tentative,0.774625
+"Hey, Negrita",joy,0.527613
+"Hey, Negrita",fear,0.574695
+Melody,joy,0.562548
+Melody,sadness,0.511511
+Melody,tentative,0.745011
+Fool To Cry,sadness,0.698634
+Fool To Cry,joy,0.595213
+Fool To Cry,tentative,0.617615
+Crazy Mama,fear,0.520817
+Crazy Mama,joy,0.534932
+Crazy Mama,anger,0.548529
+Crazy Mama,tentative,0.649044
+Miss You,sadness,0.562446
+Miss You,joy,0.532052
+Miss You,tentative,0.760416
+When The Whip Comes Down,joy,0.565192
+Just My Imagination (Running Away With Me),joy,0.615441
+Just My Imagination (Running Away With Me),sadness,0.504995
+Just My Imagination (Running Away With Me),tentative,0.806652
+Some Girls,joy,0.552193
+Some Girls,anger,0.536437
+Some Girls,tentative,0.797619
+Lies,sadness,0.737843
+Lies,fear,0.685543
+Lies,anger,0.670207
+Far Away Eyes,sadness,0.543568
+Far Away Eyes,joy,0.592351
+Respectable,joy,0.553326
+Before They Make Me Run,sadness,0.547233
+Before They Make Me Run,joy,0.635505
+Before They Make Me Run,analytical,0.510072
+Beast Of Burden,joy,0.603676
+Beast Of Burden,sadness,0.600348
+Beast Of Burden,tentative,0.880388
+Shattered,joy,0.589309
+Shattered,sadness,0.656484
+Shattered,analytical,0.503393
+Dance,sadness,0.567697
+Dance,joy,0.511673
+Dance,tentative,0.50488
+Summer Romance,joy,0.59329
+Summer Romance,tentative,0.630964
+Send It To Me,sadness,0.579133
+Send It To Me,tentative,0.705883
+Let Me Go,sadness,0.559275
+Let Me Go,joy,0.578551
+Let Me Go,tentative,0.540562
+Indian Girl,joy,0.581999
+Indian Girl,sadness,0.618416
+Where The Boys Go,joy,0.620807
+Where The Boys Go,confident,0.801237
+Down In The Hole,sadness,0.591979
+Down In The Hole,tentative,0.606366
+Emotional Rescue,sadness,0.686982
+Emotional Rescue,joy,0.541242
+She's So Cold,joy,0.628418
+All About You,sadness,0.546009
+All About You,joy,0.544933
+All About You,tentative,0.86184
+Start Me Up,joy,0.554704
+Start Me Up,sadness,0.635304
+Start Me Up,analytical,0.601949
+Hang Fire,joy,0.564348
+Hang Fire,anger,0.601793
+Hang Fire,sadness,0.605677
+Slave,tentative,0.876678
+Little T & A,joy,0.548147
+Little T & A,anger,0.587654
+Black Limousine,fear,0.690457
+Black Limousine,sadness,0.560707
+Black Limousine,joy,0.595078
+Black Limousine,analytical,0.962247
+Neighbours,anger,0.578497
+Neighbours,joy,0.610604
+Neighbours,tentative,0.862686
+Worried About You,joy,0.62261
+Worried About You,fear,0.665222
+Worried About You,sadness,0.659563
+Worried About You,tentative,0.940416
+Tops,joy,0.663309
+Heaven,sadness,0.705724
+No Use In Crying,sadness,0.592581
+No Use In Crying,tentative,0.728785
+Waiting On A Friend,sadness,0.601336
+Waiting On A Friend,tentative,0.956286
+Undercover Of The Night,joy,0.546611
+Undercover Of The Night,confident,0.942124
+She Was Hot,joy,0.567746
+She Was Hot,sadness,0.564229
+She Was Hot,tentative,0.568154
+Tie You Up (The Pain Of Love),joy,0.534172
+Tie You Up (The Pain Of Love),sadness,0.587904
+Wanna Hold You,joy,0.641508
+Feel On Baby,sadness,0.535291
+Feel On Baby,joy,0.647509
+Feel On Baby,tentative,0.972843
+Too Much Blood,joy,0.621586
+Too Much Blood,tentative,0.88456
+Pretty Beat Up,joy,0.678615
+Pretty Beat Up,tentative,0.997088
+Too Tough,joy,0.590072
+Too Tough,sadness,0.61151
+Too Tough,tentative,0.774175
+All The Way Down,joy,0.520686
+All The Way Down,confident,0.988384
+It Must Be Hell,sadness,0.613806
+It Must Be Hell,anger,0.559924
+One Hit (To The Body),sadness,0.548908
+One Hit (To The Body),joy,0.579404
+Fight,joy,0.587101
+Harlem Shuffle,joy,0.598325
+Harlem Shuffle,tentative,0.667502
+Hold Back,anger,0.601913
+Hold Back,sadness,0.599915
+Too Rude,fear,0.691124
+Too Rude,anger,0.637036
+Too Rude,sadness,0.714507
+Too Rude,confident,0.548588
+Winning Ugly,sadness,0.607451
+Winning Ugly,joy,0.62072
+Back To Zero,fear,0.525891
+Dirty Work,anger,0.668273
+Dirty Work,sadness,0.545589
+Dirty Work,joy,0.569389
+Dirty Work,tentative,0.907917
+Had It With You,sadness,0.600233
+Had It With You,joy,0.568345
+Sleep Tonight,joy,0.662949
+Sleep Tonight,sadness,0.501962
+Sleep Tonight,tentative,0.882708
+Sad Sad Sad,sadness,0.667412
+Mixed Emotions,sadness,0.608607
+Mixed Emotions,joy,0.592336
+Terrifying,sadness,0.572081
+Terrifying,fear,0.625197
+Terrifying,joy,0.517361
+Terrifying,anger,0.599895
+Hold On To Your Hat,anger,0.548334
+Hold On To Your Hat,fear,0.690852
+Hold On To Your Hat,sadness,0.708672
+Hold On To Your Hat,joy,0.530155
+Hold On To Your Hat,confident,0.824354
+Hearts For Sale,sadness,0.512559
+Hearts For Sale,joy,0.561614
+Blinded By Love,joy,0.647914
+Blinded By Love,sadness,0.545191
+Rock And A Hard Place,sadness,0.612809
+Can't Be Seen,fear,0.57553
+Can't Be Seen,joy,0.553207
+Can't Be Seen,tentative,0.976532
+Almost Hear You Sigh,sadness,0.633826
+Almost Hear You Sigh,joy,0.623076
+Almost Hear You Sigh,tentative,0.698156
+Continental Drift,joy,0.676158
+Continental Drift,confident,0.856574
+Break The Spell,sadness,0.585793
+Break The Spell,confident,0.70833
+Slipping Away,joy,0.554907
+Slipping Away,sadness,0.669516
+Slipping Away,tentative,0.939317
+Love Is Strong,joy,0.681934
+Love Is Strong,fear,0.631812
+Love Is Strong,sadness,0.637012
+Love Is Strong,tentative,0.772304
+You Got Me Rocking,sadness,0.566837
+You Got Me Rocking,joy,0.611756
+Sparks Will Fly,sadness,0.559225
+Sparks Will Fly,joy,0.621509
+Sparks Will Fly,anger,0.501651
+The Worst,fear,0.679919
+The Worst,sadness,0.595964
+The Worst,tentative,0.778329
+New Faces,sadness,0.593904
+New Faces,joy,0.578597
+Moon Is Up,joy,0.584996
+Out Of Tears,joy,0.509252
+Out Of Tears,fear,0.685124
+Out Of Tears,sadness,0.685974
+I Go Wild,sadness,0.579618
+I Go Wild,anger,0.539694
+Brand New Car,joy,0.563676
+Brand New Car,tentative,0.797832
+Sweethearts Together,sadness,0.522631
+Sweethearts Together,joy,0.631418
+Suck On The Jugular,anger,0.500676
+Suck On The Jugular,joy,0.588026
+Suck On The Jugular,confident,0.96355
+Blinded By Rainbows,joy,0.524247
+Blinded By Rainbows,fear,0.624144
+Blinded By Rainbows,sadness,0.622929
+Baby Break It Down,joy,0.584989
+Baby Break It Down,sadness,0.554
+Baby Break It Down,tentative,0.619679
+Thru And Thru,joy,0.634478
+Thru And Thru,tentative,0.871344
+Mean Disposition,joy,0.600266
+Mean Disposition,analytical,0.630451
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Like A Rolling Stone,joy,0.577876
+Like A Rolling Stone,tentative,0.77267
+Not Fade Away,joy,0.704202
+Not Fade Away,tentative,0.549145
+Shine A Light,joy,0.686991
+Shine A Light,tentative,0.73063
+The Spider And The Fly,fear,0.581598
+The Spider And The Fly,joy,0.547515
+The Spider And The Fly,tentative,0.831699
+I'm Free,joy,0.741685
+I'm Free,tentative,0.920133
+Wild Horses,sadness,0.621572
+Wild Horses,joy,0.611941
+Wild Horses,analytical,0.564527
+Wild Horses,tentative,0.733641
+Let It Bleed,sadness,0.556987
+Let It Bleed,joy,0.566391
+Let It Bleed,confident,0.807211
+Dead Flowers,sadness,0.5619
+Slipping Away,joy,0.554907
+Slipping Away,sadness,0.669516
+Slipping Away,tentative,0.939317
+Angie,sadness,0.539043
+Angie,joy,0.618857
+Angie,confident,0.800215
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Sweet Virginia,anger,0.591006
+Sweet Virginia,joy,0.624526
+Little Baby,joy,0.549925
+Little Baby,tentative,0.580848
+Flip The Switch,joy,0.55287
+Flip The Switch,anger,0.619567
+Flip The Switch,sadness,0.51062
+Anybody Seen My Baby?,joy,0.589938
+Anybody Seen My Baby?,sadness,0.567255
+Anybody Seen My Baby?,tentative,0.979138
+Anybody Seen My Baby?,analytical,0.658785
+Low Down,joy,0.540853
+Low Down,tentative,0.775424
+Already Over Me,sadness,0.587379
+Already Over Me,fear,0.597385
+Already Over Me,joy,0.554968
+Already Over Me,anger,0.634421
+Already Over Me,tentative,0.575471
+Gunface,sadness,0.559965
+Gunface,joy,0.535013
+Gunface,confident,0.554909
+You Don't Have To Mean It,joy,0.584618
+You Don't Have To Mean It,tentative,0.840983
+Out Of Control,joy,0.651919
+Out Of Control,sadness,0.667439
+Saint Of Me,joy,0.587892
+Saint Of Me,sadness,0.599791
+Might As Well Get Juiced,sadness,0.631624
+Might As Well Get Juiced,joy,0.585478
+Might As Well Get Juiced,anger,0.591178
+Might As Well Get Juiced,tentative,0.913678
+Might As Well Get Juiced,analytical,0.807315
+Always Suffering,sadness,0.632066
+Always Suffering,joy,0.601923
+Always Suffering,confident,0.561979
+Too Tight,joy,0.536822
+Thief In The Night,sadness,0.520722
+Thief In The Night,tentative,0.821096
+How Can I Stop?,joy,0.55045
+How Can I Stop?,sadness,0.622271
+How Can I Stop?,tentative,0.972222
+Rough Justice,joy,0.513427
+Rough Justice,sadness,0.63846
+Rough Justice,confident,0.61457
+Let Me Down Slow,joy,0.58721
+It Won't Take Long,sadness,0.567094
+It Won't Take Long,joy,0.534316
+It Won't Take Long,analytical,0.660331
+Rain Fall Down,sadness,0.537091
+Rain Fall Down,joy,0.630908
+Streets Of Love,sadness,0.574048
+Streets Of Love,joy,0.615206
+Back Of My Hand,joy,0.568089
+Back Of My Hand,anger,0.51076
+Back Of My Hand,tentative,0.822511
+She Saw Me Coming,joy,0.563191
+She Saw Me Coming,sadness,0.531672
+Biggest Mistake,sadness,0.523725
+Biggest Mistake,joy,0.66338
+Biggest Mistake,anger,0.500148
+This Place Is Empty,sadness,0.574222
+This Place Is Empty,joy,0.60221
+This Place Is Empty,tentative,0.851587
+"Oh No, Not You Again",sadness,0.539079
+"Oh No, Not You Again",joy,0.590665
+Dangerous Beauty,fear,0.595067
+Dangerous Beauty,joy,0.611969
+"Laugh, I Nearly Died",joy,0.545242
+"Laugh, I Nearly Died",sadness,0.636446
+"Laugh, I Nearly Died",tentative,0.786865
+Sweet Neo Con,joy,0.591483
+Sweet Neo Con,confident,0.856911
+Look What The Cat Dragged In,sadness,0.579037
+Look What The Cat Dragged In,joy,0.567067
+Look What The Cat Dragged In,confident,0.73611
+Driving Too Fast,sadness,0.542474
+Infamy,sadness,0.535548
+Infamy,joy,0.555165
+Infamy,confident,0.740345
+Route 66,joy,0.570626
+I Just Want To Make Love To You,joy,0.702215
+I Just Want To Make Love To You,sadness,0.672707
+I Just Want To Make Love To You,tentative,0.76777
+Honest I Do,joy,0.610802
+Honest I Do,fear,0.674055
+Honest I Do,anger,0.672294
+Honest I Do,sadness,0.672207
+Honest I Do,confident,0.752665
+I Need You Baby (Mona),sadness,0.571595
+I Need You Baby (Mona),joy,0.579302
+Little By Little,sadness,0.64205
+Little By Little,fear,0.649992
+Little By Little,joy,0.62978
+I'm A King Bee,joy,0.673975
+Carol,sadness,0.577498
+Carol,joy,0.625864
+Tell Me,joy,0.574678
+Can I Get A Witness,joy,0.542068
+Can I Get A Witness,sadness,0.576728
+Can I Get A Witness,tentative,0.522257
+You Can Make It If You Try,sadness,0.678668
+You Can Make It If You Try,tentative,0.965794
+You Can Make It If You Try,analytical,0.596122
+Walking The Dog,joy,0.557272
+Walking The Dog,tentative,0.556422
+Around And Around,joy,0.596709
+Around And Around,confident,0.590729
+Confessin' The Blues,joy,0.671387
+Confessin' The Blues,tentative,0.55795
+Empty Heart,joy,0.506617
+Empty Heart,sadness,0.676298
+Empty Heart,tentative,0.520885
+Time Is On My Side,joy,0.561258
+"Good Times, Bad Times",sadness,0.612454
+"Good Times, Bad Times",joy,0.595668
+"Good Times, Bad Times",tentative,0.819274
+It's All Over Now,sadness,0.653106
+It's All Over Now,fear,0.605862
+It's All Over Now,joy,0.660707
+It's All Over Now,confident,0.935988
+Under The Board Walk,joy,0.660875
+Under The Board Walk,tentative,0.629825
+Congratulations,sadness,0.543954
+Congratulations,joy,0.62356
+Congratulations,tentative,0.916274
+Grown Up Wrong,joy,0.663715
+Grown Up Wrong,confident,0.774455
+If You Need Me,joy,0.595537
+If You Need Me,sadness,0.545541
+If You Need Me,confident,0.755641
+Susie Q,joy,0.643574
+Susie Q,confident,0.828525
+Everybody Needs Somebody To Love,sadness,0.598801
+Everybody Needs Somebody To Love,joy,0.579283
+Everybody Needs Somebody To Love,tentative,0.70849
+Down Home Girl,joy,0.537789
+You Can't Catch Me,sadness,0.52142
+You Can't Catch Me,joy,0.578317
+Heart Of Stone,joy,0.586665
+Heart Of Stone,sadness,0.648528
+Heart Of Stone,tentative,0.75915
+What A Shame,fear,0.70769
+What A Shame,sadness,0.747342
+I Need You Baby (Mona),sadness,0.571595
+I Need You Baby (Mona),joy,0.579302
+Down The Road Apiece,sadness,0.55278
+Down The Road Apiece,tentative,0.808202
+Pain In My Heart,sadness,0.687632
+Pain In My Heart,joy,0.606586
+Pain In My Heart,tentative,0.524716
+Oh Baby (We Got A Good Thing Goin'),joy,0.609406
+Little Red Rooster,confident,0.586136
+"Surprise, Surprise",joy,0.511071
+"Surprise, Surprise",tentative,0.51835
+Mercy Mercy,joy,0.606039
+Hitch Hike,joy,0.615425
+The Last Time,sadness,0.564922
+The Last Time,tentative,0.964049
+That's How Strong My Love Is,joy,0.751066
+That's How Strong My Love Is,sadness,0.625693
+Good Times,joy,0.56133
+Good Times,confident,0.738856
+I'm Alright,joy,0.564147
+(I Can't Get No) Satisfaction,joy,0.538693
+(I Can't Get No) Satisfaction,tentative,0.837347
+Cry To Me,sadness,0.716343
+Cry To Me,tentative,0.500791
+The Under Assistant West Coast Promotion Man,joy,0.537745
+The Under Assistant West Coast Promotion Man,confident,0.523927
+Play With Fire,joy,0.527538
+Play With Fire,sadness,0.664854
+Play With Fire,tentative,0.82043
+The Spider And The Fly,joy,0.547515
+The Spider And The Fly,fear,0.581598
+The Spider And The Fly,tentative,0.831699
+One More Try,sadness,0.661605
+One More Try,tentative,0.835336
+She Said Yeah,sadness,0.531791
+She Said Yeah,joy,0.622167
+She Said Yeah,tentative,0.527472
+Talkin' About You,joy,0.603198
+You Better Move On,joy,0.701131
+Look What You've Done,joy,0.650717
+Look What You've Done,fear,0.523624
+Look What You've Done,sadness,0.645597
+Look What You've Done,confident,0.504961
+The Singer Not The Song,joy,0.528808
+The Singer Not The Song,sadness,0.536578
+The Singer Not The Song,confident,0.651166
+Route 66,joy,0.570626
+Get Off Of My Cloud,sadness,0.512332
+Get Off Of My Cloud,joy,0.508742
+Get Off Of My Cloud,tentative,0.637895
+I'm Free,joy,0.741685
+I'm Free,tentative,0.920133
+As Tears Go By,sadness,0.691582
+As Tears Go By,joy,0.525887
+As Tears Go By,confident,0.604855
+Gotta Get Away,joy,0.51041
+Blue Turns To Grey,sadness,0.629586
+Blue Turns To Grey,tentative,0.957598
+Blue Turns To Grey,analytical,0.6459
+Paint It Black,joy,0.61403
+Stupid Girl,anger,0.600023
+Stupid Girl,sadness,0.508112
+Stupid Girl,joy,0.501711
+Stupid Girl,analytical,0.933628
+Stupid Girl,tentative,0.82504
+Lady Jane,joy,0.690473
+Under My Thumb,joy,0.568612
+Under My Thumb,tentative,0.586281
+Doncha Bother Me,sadness,0.539089
+Think,joy,0.539218
+Think,analytical,0.817633
+Flight 505,fear,0.537055
+Flight 505,joy,0.594592
+High And Dry,sadness,0.58926
+High And Dry,tentative,0.808859
+It's Not Easy,sadness,0.645548
+It's Not Easy,tentative,0.817282
+I Am Waiting,joy,0.522497
+I Am Waiting,fear,0.726684
+I Am Waiting,tentative,0.942817
+Going Home,joy,0.632675
+Going Home,tentative,0.848966
+Let's Spend The Night Together,joy,0.623344
+Let's Spend The Night Together,tentative,0.690296
+Yesterday's Papers,sadness,0.615316
+Yesterday's Papers,joy,0.601526
+Yesterday's Papers,analytical,0.529965
+Ruby Tuesday,sadness,0.635089
+Ruby Tuesday,joy,0.589369
+Connection,sadness,0.585396
+She Smiled Sweetly,joy,0.721409
+She Smiled Sweetly,sadness,0.521742
+"Cool, Calm & Collected",joy,0.714108
+"Cool, Calm & Collected",confident,0.738608
+All Sold Out,sadness,0.624061
+All Sold Out,joy,0.627961
+All Sold Out,anger,0.502032
+All Sold Out,tentative,0.865388
+My Obsession,sadness,0.633733
+My Obsession,fear,0.685318
+My Obsession,joy,0.612302
+Who's Been Sleeping Here,joy,0.522439
+Complicated,joy,0.557104
+Complicated,confident,0.537798
+Miss Amanda Jones,joy,0.566867
+Miss Amanda Jones,sadness,0.592239
+Miss Amanda Jones,tentative,0.531174
+Something Happened To Me Yesterday,joy,0.568621
+Something Happened To Me Yesterday,tentative,0.989459
+Sing This All Together,joy,0.61927
+Sing This All Together,confident,0.969067
+Sing This All Together,analytical,0.517873
+Citadel,tentative,0.784508
+In Another Land,joy,0.585709
+In Another Land,tentative,0.692385
+2000 Man,joy,0.719155
+Sing This All Together (See What Happens),joy,0.665338
+Sing This All Together (See What Happens),confident,0.972242
+She's A Rainbow,joy,0.60411
+She's A Rainbow,tentative,0.567218
+The Lantern,joy,0.542191
+Gomper,sadness,0.650614
+2000 Light Years From Home,sadness,0.678222
+2000 Light Years From Home,joy,0.532255
+2000 Light Years From Home,confident,0.951966
+On With The Show,sadness,0.531745
+On With The Show,joy,0.677661
+On With The Show,confident,0.859164
+Sympathy For The Devil,joy,0.546992
+Sympathy For The Devil,anger,0.518921
+Sympathy For The Devil,tentative,0.913412
+No Expectations,joy,0.624571
+No Expectations,sadness,0.589967
+No Expectations,tentative,0.586281
+Dear Doctor,sadness,0.603014
+Parachute Woman,joy,0.588866
+Jig-Saw Puzzle,anger,0.549178
+Jig-Saw Puzzle,sadness,0.554348
+Jig-Saw Puzzle,joy,0.552476
+Jig-Saw Puzzle,tentative,0.802494
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Prodigal Son,sadness,0.621689
+Prodigal Son,tentative,0.587739
+Stray Cat Blues,tentative,0.884981
+Factory Girl,sadness,0.542008
+Factory Girl,fear,0.502637
+Factory Girl,confident,0.877438
+Factory Girl,analytical,0.796925
+Salt Of The Earth,sadness,0.550018
+Salt Of The Earth,tentative,0.58719
+Salt Of The Earth,analytical,0.747826
+Gimme Shelter,fear,0.640927
+Gimme Shelter,sadness,0.580226
+Gimme Shelter,joy,0.519591
+Gimme Shelter,tentative,0.985163
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Country Honk,joy,0.549746
+Country Honk,tentative,0.624364
+Live With Me,joy,0.593872
+Let It Bleed,sadness,0.556987
+Let It Bleed,joy,0.566391
+Let It Bleed,confident,0.807211
+Midnight Rambler,sadness,0.614071
+Midnight Rambler,fear,0.605634
+Midnight Rambler,joy,0.547052
+Midnight Rambler,anger,0.552611
+You Got The Silver,joy,0.629226
+Monkey Man,joy,0.594301
+Monkey Man,tentative,0.675235
+You Can't Always Get What You Want,joy,0.579619
+You Can't Always Get What You Want,tentative,0.969298
+Jumping Jack Flash,joy,0.59842
+Jumping Jack Flash,fear,0.559879
+Jumping Jack Flash,confident,0.855712
+Carol,sadness,0.577498
+Carol,joy,0.625864
+Stray Cat Blues,tentative,0.884981
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Midnight Rambler,anger,0.552611
+Midnight Rambler,fear,0.605634
+Midnight Rambler,sadness,0.614071
+Midnight Rambler,joy,0.547052
+Sympathy For The Devil,joy,0.546992
+Sympathy For The Devil,anger,0.518921
+Sympathy For The Devil,tentative,0.913412
+Live With Me,joy,0.593872
+Little Queenie,sadness,0.560388
+Little Queenie,joy,0.657078
+Little Queenie,analytical,0.546765
+Honky Tonk Women,tentative,0.71572
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Brown Sugar,joy,0.636038
+Brown Sugar,tentative,0.958967
+Sway,joy,0.6295
+Sway,tentative,0.873632
+Wild Horses,joy,0.611941
+Wild Horses,sadness,0.621572
+Wild Horses,tentative,0.733641
+Wild Horses,analytical,0.564527
+Can't You Hear Me Knocking,joy,0.563879
+Can't You Hear Me Knocking,anger,0.506196
+Can't You Hear Me Knocking,confident,0.654167
+You Gotta Move,fear,0.525247
+You Gotta Move,tentative,0.913597
+Bitch,anger,0.663301
+Bitch,sadness,0.590212
+Bitch,joy,0.551114
+Bitch,tentative,0.643746
+I Got The Blues,sadness,0.575368
+I Got The Blues,joy,0.613434
+Sister Morphine,joy,0.618175
+Sister Morphine,fear,0.535957
+Sister Morphine,sadness,0.511347
+Dead Flowers,sadness,0.5619
+Moonlight Mile,sadness,0.548355
+Moonlight Mile,joy,0.552125
+Moonlight Mile,anger,0.603193
+Moonlight Mile,tentative,0.836814
+Rocks Off,joy,0.583231
+Rocks Off,tentative,0.652657
+Rip This Joint,anger,0.550071
+Rip This Joint,sadness,0.573495
+Rip This Joint,joy,0.547056
+Shake Your Hips,joy,0.603147
+Shake Your Hips,tentative,0.78545
+Casino Boogie,anger,0.515164
+Casino Boogie,sadness,0.692898
+Tumbling Dice,joy,0.529993
+Tumbling Dice,confident,0.780034
+Sweet Virginia,joy,0.624526
+Sweet Virginia,anger,0.591006
+Torn And Frayed,sadness,0.579385
+Torn And Frayed,joy,0.55007
+Torn And Frayed,anger,0.500264
+Torn And Frayed,tentative,0.729629
+Sweet Black Angel,joy,0.619171
+Loving Cup,sadness,0.534833
+Loving Cup,joy,0.690537
+Happy,joy,0.743986
+Happy,confident,0.55158
+Turd On The Run,fear,0.57838
+Turd On The Run,sadness,0.561849
+Turd On The Run,tentative,0.706892
+Ventilator Blues,tentative,0.858962
+I Just Want To See His Face,sadness,0.652239
+I Just Want To See His Face,joy,0.605894
+I Just Want To See His Face,tentative,0.964647
+Let It Loose,sadness,0.539345
+Let It Loose,joy,0.520783
+Let It Loose,tentative,0.632469
+All Down The Line,fear,0.709267
+All Down The Line,sadness,0.552448
+All Down The Line,confident,0.9574
+Stop Breaking Down,joy,0.540608
+Stop Breaking Down,sadness,0.570313
+Stop Breaking Down,tentative,0.606057
+Shine A Light,joy,0.686991
+Shine A Light,tentative,0.73063
+Soul Survivor,sadness,0.593506
+Soul Survivor,joy,0.551795
+Soul Survivor,confident,0.82281
+100 Years Ago,sadness,0.592301
+100 Years Ago,joy,0.590094
+100 Years Ago,tentative,0.851683
+Coming Down Again,sadness,0.597357
+Doo Doo Doo Doo Doo (Heartbreaker),joy,0.574307
+Doo Doo Doo Doo Doo (Heartbreaker),sadness,0.63185
+Angie,joy,0.618857
+Angie,sadness,0.539043
+Angie,confident,0.800215
+Silver Train,joy,0.662282
+Silver Train,confident,0.567352
+Hide Your Love,sadness,0.578725
+Hide Your Love,joy,0.671936
+Winter,sadness,0.610459
+Winter,joy,0.613661
+Can You Hear The Music?,joy,0.605923
+Can You Hear The Music?,tentative,0.870778
+Star Star,joy,0.567895
+Star Star,sadness,0.552126
+If You Can't Rock Me,joy,0.622695
+If You Can't Rock Me,sadness,0.670032
+If You Can't Rock Me,tentative,0.940648
+Ain't Too Proud To Beg,sadness,0.511951
+Ain't Too Proud To Beg,joy,0.640383
+It's Only Rock 'N' Roll (But I Like It),sadness,0.639401
+It's Only Rock 'N' Roll (But I Like It),fear,0.634509
+It's Only Rock 'N' Roll (But I Like It),joy,0.58359
+It's Only Rock 'N' Roll (But I Like It),anger,0.603656
+It's Only Rock 'N' Roll (But I Like It),tentative,0.899541
+Till The Next Goodbye,sadness,0.621639
+Till The Next Goodbye,joy,0.553885
+Till The Next Goodbye,tentative,0.580357
+Time Waits For No One,sadness,0.564046
+Time Waits For No One,joy,0.551068
+Luxury,joy,0.581846
+Luxury,sadness,0.508261
+Luxury,confident,0.673979
+Dance Little Sister,joy,0.719197
+If You Really Want To Be My Friend,sadness,0.618196
+If You Really Want To Be My Friend,joy,0.605071
+If You Really Want To Be My Friend,tentative,0.616396
+If You Really Want To Be My Friend,analytical,0.827796
+Short And Curlies,sadness,0.605406
+Short And Curlies,anger,0.576728
+Short And Curlies,confident,0.741714
+Fingerprint File,joy,0.502912
+Hot Stuff,fear,0.569635
+Hot Stuff,joy,0.578075
+Hot Stuff,confident,0.853416
+Hand Of Fate,joy,0.524552
+Hand Of Fate,sadness,0.656399
+Cherry Oh Baby,joy,0.610965
+Memory Motel,sadness,0.610931
+Memory Motel,joy,0.606349
+Memory Motel,tentative,0.774625
+"Hey, Negrita",fear,0.574695
+"Hey, Negrita",joy,0.527613
+Melody,sadness,0.511511
+Melody,joy,0.562548
+Melody,tentative,0.745011
+Fool To Cry,sadness,0.698634
+Fool To Cry,joy,0.595213
+Fool To Cry,tentative,0.617615
+Crazy Mama,joy,0.534932
+Crazy Mama,fear,0.520817
+Crazy Mama,anger,0.548529
+Crazy Mama,tentative,0.649044
+Miss You,joy,0.532052
+Miss You,sadness,0.562446
+Miss You,tentative,0.760416
+When The Whip Comes Down,joy,0.565192
+Just My Imagination (Running Away With Me),sadness,0.504995
+Just My Imagination (Running Away With Me),joy,0.615441
+Just My Imagination (Running Away With Me),tentative,0.806652
+Some Girls,anger,0.536437
+Some Girls,joy,0.552193
+Some Girls,tentative,0.797619
+Lies,anger,0.670207
+Lies,fear,0.685543
+Lies,sadness,0.737843
+Far Away Eyes,joy,0.592351
+Far Away Eyes,sadness,0.543568
+Respectable,joy,0.553326
+Before They Make Me Run,sadness,0.547233
+Before They Make Me Run,joy,0.635505
+Before They Make Me Run,analytical,0.510072
+Beast Of Burden,sadness,0.600348
+Beast Of Burden,joy,0.603676
+Beast Of Burden,tentative,0.880388
+Shattered,sadness,0.656484
+Shattered,joy,0.589309
+Shattered,analytical,0.503393
+Dance,sadness,0.567697
+Dance,joy,0.511673
+Dance,tentative,0.50488
+Summer Romance,joy,0.59329
+Summer Romance,tentative,0.630964
+Send It To Me,sadness,0.579133
+Send It To Me,tentative,0.705883
+Let Me Go,sadness,0.559275
+Let Me Go,joy,0.578551
+Let Me Go,tentative,0.540562
+Indian Girl,sadness,0.618416
+Indian Girl,joy,0.581999
+Where The Boys Go,joy,0.620807
+Where The Boys Go,confident,0.801237
+Down In The Hole,sadness,0.591979
+Down In The Hole,tentative,0.606366
+Emotional Rescue,joy,0.541242
+Emotional Rescue,sadness,0.686982
+She's So Cold,joy,0.628418
+All About You,sadness,0.546009
+All About You,joy,0.544933
+All About You,tentative,0.86184
+Start Me Up,sadness,0.635304
+Start Me Up,joy,0.554704
+Start Me Up,analytical,0.601949
+Hang Fire,anger,0.601793
+Hang Fire,sadness,0.605677
+Hang Fire,joy,0.564348
+Slave,tentative,0.876678
+Little T & A,joy,0.548147
+Little T & A,anger,0.587654
+Black Limousine,joy,0.595078
+Black Limousine,fear,0.690457
+Black Limousine,sadness,0.560707
+Black Limousine,analytical,0.962247
+Neighbours,joy,0.610604
+Neighbours,anger,0.578497
+Neighbours,tentative,0.862686
+Worried About You,sadness,0.659563
+Worried About You,fear,0.665222
+Worried About You,joy,0.62261
+Worried About You,tentative,0.940416
+Tops,joy,0.663309
+Heaven,sadness,0.705724
+No Use In Crying,sadness,0.592581
+No Use In Crying,tentative,0.728785
+Waiting On A Friend,sadness,0.601336
+Waiting On A Friend,tentative,0.956286
+Undercover Of The Night,joy,0.546611
+Undercover Of The Night,confident,0.942124
+She Was Hot,sadness,0.564229
+She Was Hot,joy,0.567746
+She Was Hot,tentative,0.568154
+Tie You Up (The Pain Of Love),sadness,0.587904
+Tie You Up (The Pain Of Love),joy,0.534172
+Wanna Hold You,joy,0.641508
+Feel On Baby,joy,0.647509
+Feel On Baby,sadness,0.535291
+Feel On Baby,tentative,0.972843
+Too Much Blood,joy,0.621586
+Too Much Blood,tentative,0.88456
+Pretty Beat Up,joy,0.678615
+Pretty Beat Up,tentative,0.997088
+Too Tough,sadness,0.61151
+Too Tough,joy,0.590072
+Too Tough,tentative,0.774175
+All The Way Down,joy,0.520686
+All The Way Down,confident,0.988384
+It Must Be Hell,anger,0.559924
+It Must Be Hell,sadness,0.613806
+One Hit (To The Body),joy,0.579404
+One Hit (To The Body),sadness,0.548908
+Fight,joy,0.587101
+Harlem Shuffle,joy,0.598325
+Harlem Shuffle,tentative,0.667502
+Hold Back,sadness,0.599915
+Hold Back,anger,0.601913
+Too Rude,anger,0.637036
+Too Rude,fear,0.691124
+Too Rude,sadness,0.714507
+Too Rude,confident,0.548588
+Winning Ugly,joy,0.62072
+Winning Ugly,sadness,0.607451
+Back To Zero,fear,0.525891
+Dirty Work,sadness,0.545589
+Dirty Work,joy,0.569389
+Dirty Work,anger,0.668273
+Dirty Work,tentative,0.907917
+Had It With You,joy,0.568345
+Had It With You,sadness,0.600233
+Sleep Tonight,sadness,0.501962
+Sleep Tonight,joy,0.662949
+Sleep Tonight,tentative,0.882708
+Sad Sad Sad,sadness,0.667412
+Mixed Emotions,joy,0.592336
+Mixed Emotions,sadness,0.608607
+Terrifying,anger,0.599895
+Terrifying,fear,0.625197
+Terrifying,sadness,0.572081
+Terrifying,joy,0.517361
+Hold On To Your Hat,sadness,0.708672
+Hold On To Your Hat,fear,0.690852
+Hold On To Your Hat,joy,0.530155
+Hold On To Your Hat,anger,0.548334
+Hold On To Your Hat,confident,0.824354
+Hearts For Sale,joy,0.561614
+Hearts For Sale,sadness,0.512559
+Blinded By Love,sadness,0.545191
+Blinded By Love,joy,0.647914
+Rock And A Hard Place,sadness,0.612809
+Can't Be Seen,joy,0.553207
+Can't Be Seen,fear,0.57553
+Can't Be Seen,tentative,0.976532
+Almost Hear You Sigh,sadness,0.633826
+Almost Hear You Sigh,joy,0.623076
+Almost Hear You Sigh,tentative,0.698156
+Continental Drift,joy,0.676158
+Continental Drift,confident,0.856574
+Break The Spell,sadness,0.585793
+Break The Spell,confident,0.70833
+Slipping Away,sadness,0.669516
+Slipping Away,joy,0.554907
+Slipping Away,tentative,0.939317
+Love Is Strong,sadness,0.637012
+Love Is Strong,fear,0.631812
+Love Is Strong,joy,0.681934
+Love Is Strong,tentative,0.772304
+You Got Me Rocking,joy,0.611756
+You Got Me Rocking,sadness,0.566837
+Sparks Will Fly,anger,0.501651
+Sparks Will Fly,sadness,0.559225
+Sparks Will Fly,joy,0.621509
+The Worst,sadness,0.595964
+The Worst,fear,0.679919
+The Worst,tentative,0.778329
+New Faces,joy,0.578597
+New Faces,sadness,0.593904
+Moon Is Up,joy,0.584996
+Out Of Tears,sadness,0.685974
+Out Of Tears,fear,0.685124
+Out Of Tears,joy,0.509252
+I Go Wild,anger,0.539694
+I Go Wild,sadness,0.579618
+Brand New Car,joy,0.563676
+Brand New Car,tentative,0.797832
+Sweethearts Together,sadness,0.522631
+Sweethearts Together,joy,0.631418
+Suck On The Jugular,joy,0.588026
+Suck On The Jugular,anger,0.500676
+Suck On The Jugular,confident,0.96355
+Blinded By Rainbows,fear,0.624144
+Blinded By Rainbows,sadness,0.622929
+Blinded By Rainbows,joy,0.524247
+Baby Break It Down,sadness,0.554
+Baby Break It Down,joy,0.584989
+Baby Break It Down,tentative,0.619679
+Thru And Thru,joy,0.634478
+Thru And Thru,tentative,0.871344
+Mean Disposition,joy,0.600266
+Mean Disposition,analytical,0.630451
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Like A Rolling Stone,joy,0.577876
+Like A Rolling Stone,tentative,0.77267
+Not Fade Away,joy,0.704202
+Not Fade Away,tentative,0.549145
+Shine A Light,joy,0.686991
+Shine A Light,tentative,0.73063
+The Spider And The Fly,joy,0.547515
+The Spider And The Fly,fear,0.581598
+The Spider And The Fly,tentative,0.831699
+I'm Free,joy,0.741685
+I'm Free,tentative,0.920133
+Wild Horses,sadness,0.621572
+Wild Horses,joy,0.611941
+Wild Horses,tentative,0.733641
+Wild Horses,analytical,0.564527
+Let It Bleed,joy,0.566391
+Let It Bleed,sadness,0.556987
+Let It Bleed,confident,0.807211
+Dead Flowers,sadness,0.5619
+Slipping Away,sadness,0.669516
+Slipping Away,joy,0.554907
+Slipping Away,tentative,0.939317
+Angie,joy,0.618857
+Angie,sadness,0.539043
+Angie,confident,0.800215
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Sweet Virginia,joy,0.624526
+Sweet Virginia,anger,0.591006
+Little Baby,joy,0.549925
+Little Baby,tentative,0.580848
+Flip The Switch,anger,0.619567
+Flip The Switch,sadness,0.51062
+Flip The Switch,joy,0.55287
+Anybody Seen My Baby?,sadness,0.567255
+Anybody Seen My Baby?,joy,0.589938
+Anybody Seen My Baby?,tentative,0.979138
+Anybody Seen My Baby?,analytical,0.658785
+Low Down,joy,0.540853
+Low Down,tentative,0.775424
+Already Over Me,anger,0.634421
+Already Over Me,fear,0.597385
+Already Over Me,sadness,0.587379
+Already Over Me,joy,0.554968
+Already Over Me,tentative,0.575471
+Gunface,sadness,0.559965
+Gunface,joy,0.535013
+Gunface,confident,0.554909
+You Don't Have To Mean It,joy,0.584618
+You Don't Have To Mean It,tentative,0.840983
+Out Of Control,sadness,0.667439
+Out Of Control,joy,0.651919
+Saint Of Me,sadness,0.599791
+Saint Of Me,joy,0.587892
+Might As Well Get Juiced,joy,0.585478
+Might As Well Get Juiced,anger,0.591178
+Might As Well Get Juiced,sadness,0.631624
+Might As Well Get Juiced,tentative,0.913678
+Might As Well Get Juiced,analytical,0.807315
+Always Suffering,sadness,0.632066
+Always Suffering,joy,0.601923
+Always Suffering,confident,0.561979
+Too Tight,joy,0.536822
+Thief In The Night,sadness,0.520722
+Thief In The Night,tentative,0.821096
+How Can I Stop?,sadness,0.622271
+How Can I Stop?,joy,0.55045
+How Can I Stop?,tentative,0.972222
+Rough Justice,sadness,0.63846
+Rough Justice,joy,0.513427
+Rough Justice,confident,0.61457
+Let Me Down Slow,joy,0.58721
+It Won't Take Long,sadness,0.567094
+It Won't Take Long,joy,0.534316
+It Won't Take Long,analytical,0.660331
+Rain Fall Down,sadness,0.537091
+Rain Fall Down,joy,0.630908
+Streets Of Love,joy,0.615206
+Streets Of Love,sadness,0.574048
+Back Of My Hand,anger,0.51076
+Back Of My Hand,joy,0.568089
+Back Of My Hand,tentative,0.822511
+She Saw Me Coming,sadness,0.531672
+She Saw Me Coming,joy,0.563191
+Biggest Mistake,joy,0.66338
+Biggest Mistake,anger,0.500148
+Biggest Mistake,sadness,0.523725
+This Place Is Empty,sadness,0.574222
+This Place Is Empty,joy,0.60221
+This Place Is Empty,tentative,0.851587
+"Oh No, Not You Again",sadness,0.539079
+"Oh No, Not You Again",joy,0.590665
+Dangerous Beauty,joy,0.611969
+Dangerous Beauty,fear,0.595067
+"Laugh, I Nearly Died",sadness,0.636446
+"Laugh, I Nearly Died",joy,0.545242
+"Laugh, I Nearly Died",tentative,0.786865
+Sweet Neo Con,joy,0.591483
+Sweet Neo Con,confident,0.856911
+Look What The Cat Dragged In,joy,0.567067
+Look What The Cat Dragged In,sadness,0.579037
+Look What The Cat Dragged In,confident,0.73611
+Driving Too Fast,sadness,0.542474
+Infamy,sadness,0.535548
+Infamy,joy,0.555165
+Infamy,confident,0.740345
+Route 66,joy,0.570626
+I Just Want To Make Love To You,sadness,0.672707
+I Just Want To Make Love To You,joy,0.702215
+I Just Want To Make Love To You,tentative,0.76777
+Honest I Do,sadness,0.672207
+Honest I Do,fear,0.674055
+Honest I Do,joy,0.610802
+Honest I Do,anger,0.672294
+Honest I Do,confident,0.752665
+I Need You Baby (Mona),joy,0.579302
+I Need You Baby (Mona),sadness,0.571595
+Little By Little,fear,0.649992
+Little By Little,sadness,0.64205
+Little By Little,joy,0.62978
+I'm A King Bee,joy,0.673975
+Carol,joy,0.625864
+Carol,sadness,0.577498
+Tell Me,joy,0.574678
+Can I Get A Witness,sadness,0.576728
+Can I Get A Witness,joy,0.542068
+Can I Get A Witness,tentative,0.522257
+You Can Make It If You Try,sadness,0.678668
+You Can Make It If You Try,tentative,0.965794
+You Can Make It If You Try,analytical,0.596122
+Walking The Dog,joy,0.557272
+Walking The Dog,tentative,0.556422
+Around And Around,joy,0.596709
+Around And Around,confident,0.590729
+Confessin' The Blues,joy,0.671387
+Confessin' The Blues,tentative,0.55795
+Empty Heart,sadness,0.676298
+Empty Heart,joy,0.506617
+Empty Heart,tentative,0.520885
+Time Is On My Side,joy,0.561258
+"Good Times, Bad Times",joy,0.595668
+"Good Times, Bad Times",sadness,0.612454
+"Good Times, Bad Times",tentative,0.819274
+It's All Over Now,fear,0.605862
+It's All Over Now,sadness,0.653106
+It's All Over Now,joy,0.660707
+It's All Over Now,confident,0.935988
+Under The Board Walk,joy,0.660875
+Under The Board Walk,tentative,0.629825
+Congratulations,joy,0.62356
+Congratulations,sadness,0.543954
+Congratulations,tentative,0.916274
+Grown Up Wrong,joy,0.663715
+Grown Up Wrong,confident,0.774455
+If You Need Me,sadness,0.545541
+If You Need Me,joy,0.595537
+If You Need Me,confident,0.755641
+Susie Q,joy,0.643574
+Susie Q,confident,0.828525
+Everybody Needs Somebody To Love,sadness,0.598801
+Everybody Needs Somebody To Love,joy,0.579283
+Everybody Needs Somebody To Love,tentative,0.70849
+Down Home Girl,joy,0.537789
+You Can't Catch Me,joy,0.578317
+You Can't Catch Me,sadness,0.52142
+Heart Of Stone,sadness,0.648528
+Heart Of Stone,joy,0.586665
+Heart Of Stone,tentative,0.75915
+What A Shame,sadness,0.747342
+What A Shame,fear,0.70769
+I Need You Baby (Mona),joy,0.579302
+I Need You Baby (Mona),sadness,0.571595
+Down The Road Apiece,sadness,0.55278
+Down The Road Apiece,tentative,0.808202
+Pain In My Heart,joy,0.606586
+Pain In My Heart,sadness,0.687632
+Pain In My Heart,tentative,0.524716
+Oh Baby (We Got A Good Thing Goin'),joy,0.609406
+Little Red Rooster,confident,0.586136
+"Surprise, Surprise",joy,0.511071
+"Surprise, Surprise",tentative,0.51835
+Mercy Mercy,joy,0.606039
+Hitch Hike,joy,0.615425
+The Last Time,sadness,0.564922
+The Last Time,tentative,0.964049
+That's How Strong My Love Is,joy,0.751066
+That's How Strong My Love Is,sadness,0.625693
+Good Times,joy,0.56133
+Good Times,confident,0.738856
+I'm Alright,joy,0.564147
+(I Can't Get No) Satisfaction,joy,0.538693
+(I Can't Get No) Satisfaction,tentative,0.837347
+Cry To Me,sadness,0.716343
+Cry To Me,tentative,0.500791
+The Under Assistant West Coast Promotion Man,joy,0.537745
+The Under Assistant West Coast Promotion Man,confident,0.523927
+Play With Fire,joy,0.527538
+Play With Fire,sadness,0.664854
+Play With Fire,tentative,0.82043
+The Spider And The Fly,joy,0.547515
+The Spider And The Fly,fear,0.581598
+The Spider And The Fly,tentative,0.831699
+One More Try,sadness,0.661605
+One More Try,tentative,0.835336
+She Said Yeah,sadness,0.531791
+She Said Yeah,joy,0.622167
+She Said Yeah,tentative,0.527472
+Talkin' About You,joy,0.603198
+You Better Move On,joy,0.701131
+Look What You've Done,joy,0.650717
+Look What You've Done,fear,0.523624
+Look What You've Done,sadness,0.645597
+Look What You've Done,confident,0.504961
+The Singer Not The Song,joy,0.528808
+The Singer Not The Song,sadness,0.536578
+The Singer Not The Song,confident,0.651166
+Route 66,joy,0.570626
+Get Off Of My Cloud,sadness,0.512332
+Get Off Of My Cloud,joy,0.508742
+Get Off Of My Cloud,tentative,0.637895
+I'm Free,joy,0.741685
+I'm Free,tentative,0.920133
+As Tears Go By,sadness,0.691582
+As Tears Go By,joy,0.525887
+As Tears Go By,confident,0.604855
+Gotta Get Away,joy,0.51041
+Blue Turns To Grey,sadness,0.629586
+Blue Turns To Grey,tentative,0.957598
+Blue Turns To Grey,analytical,0.6459
+Paint It Black,joy,0.61403
+Stupid Girl,anger,0.600023
+Stupid Girl,sadness,0.508112
+Stupid Girl,joy,0.501711
+Stupid Girl,analytical,0.933628
+Stupid Girl,tentative,0.82504
+Lady Jane,joy,0.690473
+Under My Thumb,joy,0.568612
+Under My Thumb,tentative,0.586281
+Doncha Bother Me,sadness,0.539089
+Think,joy,0.539218
+Think,analytical,0.817633
+Flight 505,fear,0.537055
+Flight 505,joy,0.594592
+High And Dry,sadness,0.58926
+High And Dry,tentative,0.808859
+It's Not Easy,sadness,0.645548
+It's Not Easy,tentative,0.817282
+I Am Waiting,joy,0.522497
+I Am Waiting,fear,0.726684
+I Am Waiting,tentative,0.942817
+Going Home,joy,0.632675
+Going Home,tentative,0.848966
+Let's Spend The Night Together,joy,0.623344
+Let's Spend The Night Together,tentative,0.690296
+Yesterday's Papers,sadness,0.615316
+Yesterday's Papers,joy,0.601526
+Yesterday's Papers,analytical,0.529965
+Ruby Tuesday,sadness,0.635089
+Ruby Tuesday,joy,0.589369
+Connection,sadness,0.585396
+She Smiled Sweetly,joy,0.721409
+She Smiled Sweetly,sadness,0.521742
+"Cool, Calm & Collected",joy,0.714108
+"Cool, Calm & Collected",confident,0.738608
+All Sold Out,sadness,0.624061
+All Sold Out,joy,0.627961
+All Sold Out,anger,0.502032
+All Sold Out,tentative,0.865388
+My Obsession,sadness,0.633733
+My Obsession,fear,0.685318
+My Obsession,joy,0.612302
+Who's Been Sleeping Here,joy,0.522439
+Complicated,joy,0.557104
+Complicated,confident,0.537798
+Miss Amanda Jones,joy,0.566867
+Miss Amanda Jones,sadness,0.592239
+Miss Amanda Jones,tentative,0.531174
+Something Happened To Me Yesterday,joy,0.568621
+Something Happened To Me Yesterday,tentative,0.989459
+Sing This All Together,joy,0.61927
+Sing This All Together,confident,0.969067
+Sing This All Together,analytical,0.517873
+Citadel,tentative,0.784508
+In Another Land,joy,0.585709
+In Another Land,tentative,0.692385
+2000 Man,joy,0.719155
+Sing This All Together (See What Happens),joy,0.665338
+Sing This All Together (See What Happens),confident,0.972242
+She's A Rainbow,joy,0.60411
+She's A Rainbow,tentative,0.567218
+The Lantern,joy,0.542191
+Gomper,sadness,0.650614
+2000 Light Years From Home,sadness,0.678222
+2000 Light Years From Home,joy,0.532255
+2000 Light Years From Home,confident,0.951966
+On With The Show,sadness,0.531745
+On With The Show,joy,0.677661
+On With The Show,confident,0.859164
+Sympathy For The Devil,joy,0.546992
+Sympathy For The Devil,anger,0.518921
+Sympathy For The Devil,tentative,0.913412
+No Expectations,joy,0.624571
+No Expectations,sadness,0.589967
+No Expectations,tentative,0.586281
+Dear Doctor,sadness,0.603014
+Parachute Woman,joy,0.588866
+Jig-Saw Puzzle,anger,0.549178
+Jig-Saw Puzzle,sadness,0.554348
+Jig-Saw Puzzle,joy,0.552476
+Jig-Saw Puzzle,tentative,0.802494
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Prodigal Son,sadness,0.621689
+Prodigal Son,tentative,0.587739
+Stray Cat Blues,tentative,0.884981
+Factory Girl,sadness,0.542008
+Factory Girl,fear,0.502637
+Factory Girl,confident,0.877438
+Factory Girl,analytical,0.796925
+Salt Of The Earth,sadness,0.550018
+Salt Of The Earth,tentative,0.58719
+Salt Of The Earth,analytical,0.747826
+Gimme Shelter,fear,0.640927
+Gimme Shelter,sadness,0.580226
+Gimme Shelter,joy,0.519591
+Gimme Shelter,tentative,0.985163
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Country Honk,joy,0.549746
+Country Honk,tentative,0.624364
+Live With Me,joy,0.593872
+Let It Bleed,sadness,0.556987
+Let It Bleed,joy,0.566391
+Let It Bleed,confident,0.807211
+Midnight Rambler,sadness,0.614071
+Midnight Rambler,fear,0.605634
+Midnight Rambler,joy,0.547052
+Midnight Rambler,anger,0.552611
+You Got The Silver,joy,0.629226
+Monkey Man,joy,0.594301
+Monkey Man,tentative,0.675235
+You Can't Always Get What You Want,joy,0.579619
+You Can't Always Get What You Want,tentative,0.969298
+Jumping Jack Flash,joy,0.59842
+Jumping Jack Flash,fear,0.559879
+Jumping Jack Flash,confident,0.855712
+Carol,sadness,0.577498
+Carol,joy,0.625864
+Stray Cat Blues,tentative,0.884981
+Love In Vain,sadness,0.587292
+Love In Vain,joy,0.622206
+Love In Vain,confident,0.627908
+Midnight Rambler,anger,0.552611
+Midnight Rambler,fear,0.605634
+Midnight Rambler,sadness,0.614071
+Midnight Rambler,joy,0.547052
+Sympathy For The Devil,joy,0.546992
+Sympathy For The Devil,anger,0.518921
+Sympathy For The Devil,tentative,0.913412
+Live With Me,joy,0.593872
+Little Queenie,sadness,0.560388
+Little Queenie,joy,0.657078
+Little Queenie,analytical,0.546765
+Honky Tonk Women,tentative,0.71572
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,joy,0.519157
+Street Fighting Man,analytical,0.697586
+Brown Sugar,joy,0.636038
+Brown Sugar,tentative,0.958967
+Sway,joy,0.6295
+Sway,tentative,0.873632
+Wild Horses,joy,0.611941
+Wild Horses,sadness,0.621572
+Wild Horses,tentative,0.733641
+Wild Horses,analytical,0.564527
+Can't You Hear Me Knocking,joy,0.563879
+Can't You Hear Me Knocking,anger,0.506196
+Can't You Hear Me Knocking,confident,0.654167
+You Gotta Move,fear,0.525247
+You Gotta Move,tentative,0.913597
+Bitch,anger,0.663301
+Bitch,sadness,0.590212
+Bitch,joy,0.551114
+Bitch,tentative,0.643746
+I Got The Blues,sadness,0.575368
+I Got The Blues,joy,0.613434
+Sister Morphine,joy,0.618175
+Sister Morphine,fear,0.535957
+Sister Morphine,sadness,0.511347
+Dead Flowers,sadness,0.5619
+Moonlight Mile,sadness,0.548355
+Moonlight Mile,joy,0.552125
+Moonlight Mile,anger,0.603193
+Moonlight Mile,tentative,0.836814
+Rocks Off,joy,0.583231
+Rocks Off,tentative,0.652657
+Rip This Joint,anger,0.550071
+Rip This Joint,sadness,0.573495
+Rip This Joint,joy,0.547056
+Shake Your Hips,joy,0.603147
+Shake Your Hips,tentative,0.78545
+Casino Boogie,anger,0.515164
+Casino Boogie,sadness,0.692898
+Tumbling Dice,joy,0.529993
+Tumbling Dice,confident,0.780034
+Sweet Virginia,joy,0.624526
+Sweet Virginia,anger,0.591006
+Torn And Frayed,sadness,0.579385
+Torn And Frayed,joy,0.55007
+Torn And Frayed,anger,0.500264
+Torn And Frayed,tentative,0.729629
+Sweet Black Angel,joy,0.619171
+Loving Cup,sadness,0.534833
+Loving Cup,joy,0.690537
+Happy,joy,0.743986
+Happy,confident,0.55158
+Turd On The Run,fear,0.57838
+Turd On The Run,sadness,0.561849
+Turd On The Run,tentative,0.706892
+Ventilator Blues,tentative,0.858962
+I Just Want To See His Face,sadness,0.652239
+I Just Want To See His Face,joy,0.605894
+I Just Want To See His Face,tentative,0.964647
+Let It Loose,sadness,0.539345
+Let It Loose,joy,0.520783
+Let It Loose,tentative,0.632469
+All Down The Line,fear,0.709267
+All Down The Line,sadness,0.552448
+All Down The Line,confident,0.9574
+Stop Breaking Down,joy,0.540608
+Stop Breaking Down,sadness,0.570313
+Stop Breaking Down,tentative,0.606057
+Shine A Light,joy,0.686991
+Shine A Light,tentative,0.73063
+Soul Survivor,sadness,0.593506
+Soul Survivor,joy,0.551795
+Soul Survivor,confident,0.82281
+100 Years Ago,sadness,0.592301
+100 Years Ago,joy,0.590094
+100 Years Ago,tentative,0.851683
+Coming Down Again,sadness,0.597357
+Doo Doo Doo Doo Doo (Heartbreaker),joy,0.574307
+Doo Doo Doo Doo Doo (Heartbreaker),sadness,0.63185
+Angie,joy,0.618857
+Angie,sadness,0.539043
+Angie,confident,0.800215
+Silver Train,joy,0.662282
+Silver Train,confident,0.567352
+Hide Your Love,sadness,0.578725
+Hide Your Love,joy,0.671936
+Winter,sadness,0.610459
+Winter,joy,0.613661
+Can You Hear The Music?,joy,0.605923
+Can You Hear The Music?,tentative,0.870778
+Star Star,joy,0.567895
+Star Star,sadness,0.552126
+If You Can't Rock Me,joy,0.622695
+If You Can't Rock Me,sadness,0.670032
+If You Can't Rock Me,tentative,0.940648
+Ain't Too Proud To Beg,sadness,0.511951
+Ain't Too Proud To Beg,joy,0.640383
+It's Only Rock 'N' Roll (But I Like It),sadness,0.639401
+It's Only Rock 'N' Roll (But I Like It),fear,0.634509
+It's Only Rock 'N' Roll (But I Like It),joy,0.58359
+It's Only Rock 'N' Roll (But I Like It),anger,0.603656
+It's Only Rock 'N' Roll (But I Like It),tentative,0.899541
+Till The Next Goodbye,sadness,0.621639
+Till The Next Goodbye,joy,0.553885
+Till The Next Goodbye,tentative,0.580357
+Time Waits For No One,sadness,0.564046
+Time Waits For No One,joy,0.551068
+Luxury,joy,0.581846
+Luxury,sadness,0.508261
+Luxury,confident,0.673979
+Dance Little Sister,joy,0.719197
+If You Really Want To Be My Friend,sadness,0.618196
+If You Really Want To Be My Friend,joy,0.605071
+If You Really Want To Be My Friend,tentative,0.616396
+If You Really Want To Be My Friend,analytical,0.827796
+Short And Curlies,sadness,0.605406
+Short And Curlies,anger,0.576728
+Short And Curlies,confident,0.741714
+Fingerprint File,joy,0.502912
+Hot Stuff,fear,0.569635
+Hot Stuff,joy,0.578075
+Hot Stuff,confident,0.853416
+Hand Of Fate,joy,0.524552
+Hand Of Fate,sadness,0.656399
+Cherry Oh Baby,joy,0.610965
+Memory Motel,sadness,0.610931
+Memory Motel,joy,0.606349
+Memory Motel,tentative,0.774625
+"Hey, Negrita",fear,0.574695
+"Hey, Negrita",joy,0.527613
+Melody,sadness,0.511511
+Melody,joy,0.562548
+Melody,tentative,0.745011
+Fool To Cry,sadness,0.698634
+Fool To Cry,joy,0.595213
+Fool To Cry,tentative,0.617615
+Crazy Mama,joy,0.534932
+Crazy Mama,fear,0.520817
+Crazy Mama,anger,0.548529
+Crazy Mama,tentative,0.649044
+Miss You,joy,0.532052
+Miss You,sadness,0.562446
+Miss You,tentative,0.760416
+When The Whip Comes Down,joy,0.565192
+Just My Imagination (Running Away With Me),sadness,0.504995
+Just My Imagination (Running Away With Me),joy,0.615441
+Just My Imagination (Running Away With Me),tentative,0.806652
+Some Girls,anger,0.536437
+Some Girls,joy,0.552193
+Some Girls,tentative,0.797619
+Lies,anger,0.670207
+Lies,fear,0.685543
+Lies,sadness,0.737843
+Far Away Eyes,joy,0.592351
+Far Away Eyes,sadness,0.543568
+Respectable,joy,0.553326
+Before They Make Me Run,sadness,0.547233
+Before They Make Me Run,joy,0.635505
+Before They Make Me Run,analytical,0.510072
+Beast Of Burden,sadness,0.600348
+Beast Of Burden,joy,0.603676
+Beast Of Burden,tentative,0.880388
+Shattered,sadness,0.656484
+Shattered,joy,0.589309
+Shattered,analytical,0.503393
+Dance,sadness,0.567697
+Dance,joy,0.511673
+Dance,tentative,0.50488
+Summer Romance,joy,0.59329
+Summer Romance,tentative,0.630964
+Send It To Me,sadness,0.579133
+Send It To Me,tentative,0.705883
+Let Me Go,sadness,0.559275
+Let Me Go,joy,0.578551
+Let Me Go,tentative,0.540562
+Indian Girl,sadness,0.618416
+Indian Girl,joy,0.581999
+Where The Boys Go,joy,0.620807
+Where The Boys Go,confident,0.801237
+Down In The Hole,sadness,0.591979
+Down In The Hole,tentative,0.606366
+Emotional Rescue,joy,0.541242
+Emotional Rescue,sadness,0.686982
+She's So Cold,joy,0.628418
+All About You,sadness,0.546009
+All About You,joy,0.544933
+All About You,tentative,0.86184
+Start Me Up,sadness,0.635304
+Start Me Up,joy,0.554704
+Start Me Up,analytical,0.601949
+Hang Fire,anger,0.601793
+Hang Fire,sadness,0.605677
+Hang Fire,joy,0.564348
+Slave,tentative,0.876678
+Little T & A,joy,0.548147
+Little T & A,anger,0.587654
+Black Limousine,joy,0.595078
+Black Limousine,fear,0.690457
+Black Limousine,sadness,0.560707
+Black Limousine,analytical,0.962247
+Neighbours,joy,0.610604
+Neighbours,anger,0.578497
+Neighbours,tentative,0.862686
+Worried About You,sadness,0.659563
+Worried About You,fear,0.665222
+Worried About You,joy,0.62261
+Worried About You,tentative,0.940416
+Tops,joy,0.663309
+Heaven,sadness,0.705724
+No Use In Crying,sadness,0.592581
+No Use In Crying,tentative,0.728785
+Waiting On A Friend,sadness,0.601336
+Waiting On A Friend,tentative,0.956286
+Undercover Of The Night,joy,0.546611
+Undercover Of The Night,confident,0.942124
+She Was Hot,sadness,0.564229
+She Was Hot,joy,0.567746
+She Was Hot,tentative,0.568154
+Tie You Up (The Pain Of Love),sadness,0.587904
+Tie You Up (The Pain Of Love),joy,0.534172
+Wanna Hold You,joy,0.641508
+Feel On Baby,joy,0.647509
+Feel On Baby,sadness,0.535291
+Feel On Baby,tentative,0.972843
+Too Much Blood,joy,0.621586
+Too Much Blood,tentative,0.88456
+Pretty Beat Up,joy,0.678615
+Pretty Beat Up,tentative,0.997088
+Too Tough,sadness,0.61151
+Too Tough,joy,0.590072
+Too Tough,tentative,0.774175
+All The Way Down,joy,0.520686
+All The Way Down,confident,0.988384
+It Must Be Hell,anger,0.559924
+It Must Be Hell,sadness,0.613806
+One Hit (To The Body),joy,0.579404
+One Hit (To The Body),sadness,0.548908
+Fight,joy,0.587101
+Harlem Shuffle,joy,0.598325
+Harlem Shuffle,tentative,0.667502
+Hold Back,sadness,0.599915
+Hold Back,anger,0.601913
+Too Rude,anger,0.637036
+Too Rude,fear,0.691124
+Too Rude,sadness,0.714507
+Too Rude,confident,0.548588
+Winning Ugly,sadness,0.607451
+Winning Ugly,joy,0.62072
+Back To Zero,fear,0.525891
+Dirty Work,joy,0.569389
+Dirty Work,anger,0.668273
+Dirty Work,sadness,0.545589
+Dirty Work,tentative,0.907917
+Had It With You,sadness,0.600233
+Had It With You,joy,0.568345
+Sleep Tonight,sadness,0.501962
+Sleep Tonight,joy,0.662949
+Sleep Tonight,tentative,0.882708
+Sad Sad Sad,sadness,0.667412
+Mixed Emotions,sadness,0.608607
+Mixed Emotions,joy,0.592336
+Terrifying,joy,0.517361
+Terrifying,fear,0.625197
+Terrifying,anger,0.599895
+Terrifying,sadness,0.572081
+Hold On To Your Hat,joy,0.530155
+Hold On To Your Hat,fear,0.690852
+Hold On To Your Hat,anger,0.548334
+Hold On To Your Hat,sadness,0.708672
+Hold On To Your Hat,confident,0.824354
+Hearts For Sale,sadness,0.512559
+Hearts For Sale,joy,0.561614
+Blinded By Love,sadness,0.545191
+Blinded By Love,joy,0.647914
+Rock And A Hard Place,sadness,0.612809
+Can't Be Seen,fear,0.57553
+Can't Be Seen,joy,0.553207
+Can't Be Seen,tentative,0.976532
+Almost Hear You Sigh,joy,0.623076
+Almost Hear You Sigh,sadness,0.633826
+Almost Hear You Sigh,tentative,0.698156
+Continental Drift,joy,0.676158
+Continental Drift,confident,0.856574
+Break The Spell,sadness,0.585793
+Break The Spell,confident,0.70833
+Slipping Away,sadness,0.669516
+Slipping Away,joy,0.554907
+Slipping Away,tentative,0.939317
+Love Is Strong,fear,0.631812
+Love Is Strong,sadness,0.637012
+Love Is Strong,joy,0.681934
+Love Is Strong,tentative,0.772304
+You Got Me Rocking,sadness,0.566837
+You Got Me Rocking,joy,0.611756
+Sparks Will Fly,joy,0.621509
+Sparks Will Fly,anger,0.501651
+Sparks Will Fly,sadness,0.559225
+The Worst,fear,0.679919
+The Worst,sadness,0.595964
+The Worst,tentative,0.778329
+New Faces,sadness,0.593904
+New Faces,joy,0.578597
+Moon Is Up,joy,0.584996
+Out Of Tears,fear,0.685124
+Out Of Tears,sadness,0.685974
+Out Of Tears,joy,0.509252
+I Go Wild,anger,0.539694
+I Go Wild,sadness,0.579618
+Brand New Car,joy,0.563676
+Brand New Car,tentative,0.797832
+Sweethearts Together,joy,0.631418
+Sweethearts Together,sadness,0.522631
+Suck On The Jugular,joy,0.588026
+Suck On The Jugular,anger,0.500676
+Suck On The Jugular,confident,0.96355
+Blinded By Rainbows,sadness,0.622929
+Blinded By Rainbows,fear,0.624144
+Blinded By Rainbows,joy,0.524247
+Baby Break It Down,sadness,0.554
+Baby Break It Down,joy,0.584989
+Baby Break It Down,tentative,0.619679
+Thru And Thru,joy,0.634478
+Thru And Thru,tentative,0.871344
+Mean Disposition,joy,0.600266
+Mean Disposition,analytical,0.630451
+Street Fighting Man,joy,0.519157
+Street Fighting Man,sadness,0.581033
+Street Fighting Man,analytical,0.697586
+Like A Rolling Stone,joy,0.577876
+Like A Rolling Stone,tentative,0.77267
+Not Fade Away,joy,0.704202
+Not Fade Away,tentative,0.549145
+Shine A Light,joy,0.686991
+Shine A Light,tentative,0.73063
+The Spider And The Fly,fear,0.581598
+The Spider And The Fly,joy,0.547515
+The Spider And The Fly,tentative,0.831699
+I'm Free,joy,0.741685
+I'm Free,tentative,0.920133
+Wild Horses,joy,0.611941
+Wild Horses,sadness,0.621572
+Wild Horses,tentative,0.733641
+Wild Horses,analytical,0.564527
+Let It Bleed,sadness,0.556987
+Let It Bleed,joy,0.566391
+Let It Bleed,confident,0.807211
+Dead Flowers,sadness,0.5619
+Slipping Away,sadness,0.669516
+Slipping Away,joy,0.554907
+Slipping Away,tentative,0.939317
+Angie,sadness,0.539043
+Angie,joy,0.618857
+Angie,confident,0.800215
+Love In Vain,joy,0.622206
+Love In Vain,sadness,0.587292
+Love In Vain,confident,0.627908
+Sweet Virginia,joy,0.624526
+Sweet Virginia,anger,0.591006
+Little Baby,joy,0.549925
+Little Baby,tentative,0.580848
+Flip The Switch,sadness,0.51062
+Flip The Switch,joy,0.55287
+Flip The Switch,anger,0.619567
+Anybody Seen My Baby?,sadness,0.567255
+Anybody Seen My Baby?,joy,0.589938
+Anybody Seen My Baby?,analytical,0.658785
+Anybody Seen My Baby?,tentative,0.979138
+Low Down,joy,0.540853
+Low Down,tentative,0.775424
+Already Over Me,anger,0.634421
+Already Over Me,fear,0.597385
+Already Over Me,sadness,0.587379
+Already Over Me,joy,0.554968
+Already Over Me,tentative,0.575471
+Gunface,sadness,0.559965
+Gunface,joy,0.535013
+Gunface,confident,0.554909
+You Don't Have To Mean It,joy,0.584618
+You Don't Have To Mean It,tentative,0.840983
+Out Of Control,sadness,0.667439
+Out Of Control,joy,0.651919
+Saint Of Me,sadness,0.599791
+Saint Of Me,joy,0.587892
+Might As Well Get Juiced,joy,0.585478
+Might As Well Get Juiced,anger,0.591178
+Might As Well Get Juiced,sadness,0.631624
+Might As Well Get Juiced,tentative,0.913678
+Might As Well Get Juiced,analytical,0.807315
+Always Suffering,sadness,0.632066
+Always Suffering,joy,0.601923
+Always Suffering,confident,0.561979
+Too Tight,joy,0.536822
+Thief In The Night,sadness,0.520722
+Thief In The Night,tentative,0.821096
+How Can I Stop?,sadness,0.622271
+How Can I Stop?,joy,0.55045
+How Can I Stop?,tentative,0.972222
+Rough Justice,sadness,0.63846
+Rough Justice,joy,0.513427
+Rough Justice,confident,0.61457
+Let Me Down Slow,joy,0.58721
+It Won't Take Long,sadness,0.567094
+It Won't Take Long,joy,0.534316
+It Won't Take Long,analytical,0.660331
+Rain Fall Down,sadness,0.537091
+Rain Fall Down,joy,0.630908
+Streets Of Love,joy,0.615206
+Streets Of Love,sadness,0.574048
+Back Of My Hand,anger,0.51076
+Back Of My Hand,joy,0.568089
+Back Of My Hand,tentative,0.822511
+She Saw Me Coming,sadness,0.531672
+She Saw Me Coming,joy,0.563191
+Biggest Mistake,joy,0.66338
+Biggest Mistake,anger,0.500148
+Biggest Mistake,sadness,0.523725
+This Place Is Empty,sadness,0.574222
+This Place Is Empty,joy,0.60221
+This Place Is Empty,tentative,0.851587
+"Oh No, Not You Again",sadness,0.539079
+"Oh No, Not You Again",joy,0.590665
+Dangerous Beauty,joy,0.611969
+Dangerous Beauty,fear,0.595067
+"Laugh, I Nearly Died",sadness,0.636446
+"Laugh, I Nearly Died",joy,0.545242
+"Laugh, I Nearly Died",tentative,0.786865
+Sweet Neo Con,joy,0.591483
+Sweet Neo Con,confident,0.856911
+Look What The Cat Dragged In,joy,0.567067
+Look What The Cat Dragged In,sadness,0.579037
+Look What The Cat Dragged In,confident,0.73611
+Driving Too Fast,sadness,0.542474
+Infamy,sadness,0.535548
+Infamy,joy,0.555165
+Infamy,confident,0.740345
