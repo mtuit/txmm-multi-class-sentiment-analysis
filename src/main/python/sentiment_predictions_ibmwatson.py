@@ -4,7 +4,7 @@ import pandas as pd
 import json
 import csv
 
-API_KEY = 'vumUXz4lJK2RSLgwXMjFAWtrcVufxPguSxMbqUBXAdD_'
+API_KEY = ''
 VERSION = '2017-09-21'
 SERVICE_URL = 'https://api.eu-de.tone-analyzer.watson.cloud.ibm.com/instances/cee6f56f-a93c-487a-b21d-0ee417bc6df6'
 
