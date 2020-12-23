@@ -16,6 +16,7 @@ def save_results(results):
         for result in results: 
             writer.writerow(result)
 
+            
 def analyze(tone_analyzer, song_lyric): 
     try: 
         tone_analysis = tone_analyzer.tone(
@@ -27,6 +28,7 @@ def analyze(tone_analyzer, song_lyric):
     except ApiException as ex:
         print("Failed to analyze song " + str(ex.code) + ": " + ex.message)
 
+        
 def analyze_data(tone_analyzer, data): 
     results = []
     for index, song in data.iterrows(): 
